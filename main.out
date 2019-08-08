@@ -1,0 +1,24 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Methods}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Experimental design}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Objective functions}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Multi-objective metaheuristics}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.4}{State-of-the-art MSA tools}{section.2}% 6
+\BOOKMARK [1][-]{section.3}{Results}{}% 7
+\BOOKMARK [2][-]{subsection.3.1}{Datasets}{section.3}% 8
+\BOOKMARK [2][-]{subsection.3.2}{Selection of appropriate multi-objective formulations}{section.3}% 9
+\BOOKMARK [3][-]{subsubsection.3.2.1}{Selection from among the existing formulations}{subsection.3.2}% 10
+\BOOKMARK [3][-]{subsubsection.3.2.2}{Selection of a new formulation}{subsection.3.2}% 11
+\BOOKMARK [2][-]{subsection.3.3}{Validation of the selected multi-objective formulations}{section.3}% 12
+\BOOKMARK [3][-]{figure.caption.6}{Results on biological rRNA datasets}{subsection.3.3}% 13
+\BOOKMARK [3][-]{subsubsection.3.3.2}{Results on BAliBASE datasets}{subsection.3.3}% 14
+\BOOKMARK [3][-]{subsubsection.3.3.3}{Statistical significance}{subsection.3.3}% 15
+\BOOKMARK [3][-]{subsubsection.3.3.4}{Running time}{subsection.3.3}% 16
+\BOOKMARK [1][-]{section.4}{Discussion \046 Conclusion}{}% 17
+\BOOKMARK [1][-]{section*.12}{References}{}% 18
+\BOOKMARK [1][-]{IEEEbiography.0}{Biographies}{}% 19
+\BOOKMARK [2][-]{IEEEbiography.1}{Muhammad Ali Nayeem}{IEEEbiography.0}% 20
+\BOOKMARK [2][-]{IEEEbiography.2}{Md. Shamsuzzoha Bayzid}{IEEEbiography.0}% 21
+\BOOKMARK [2][-]{IEEEbiography.3}{Atif Hasan Rahman}{IEEEbiography.0}% 22
+\BOOKMARK [2][-]{IEEEbiography.4}{Rifat Shahriyar}{IEEEbiography.0}% 23
+\BOOKMARK [2][-]{IEEEbiography.5}{M. Sohel Rahman}{IEEEbiography.0}% 24

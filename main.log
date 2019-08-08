@@ -1,0 +1,1963 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.1.29)  8 AUG 2019 21:54
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2018-04-01> patch level 2
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+(./IEEEtran.cls
+Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen102
+\@IEEEtrantmpdimenB=\dimen103
+\@IEEEtrantmpdimenC=\dimen104
+\@IEEEtrantmpcountA=\count80
+\@IEEEtrantmpcountB=\count81
+\@IEEEtrantmpcountC=\count82
+\@IEEEtrantmptoksA=\toks14
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 503.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen105
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen106
+\CLASSINFOnormalsizeunitybaselineskip=\dimen107
+\IEEEnormaljot=\dimen108
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+\IEEEquantizedlength=\dimen109
+\IEEEquantizedlengthdiff=\dimen110
+\IEEEquantizedtextheightdiff=\dimen111
+\IEEEilabelindentA=\dimen112
+\IEEEilabelindentB=\dimen113
+\IEEEilabelindent=\dimen114
+\IEEEelabelindent=\dimen115
+\IEEEdlabelindent=\dimen116
+\IEEElabelindent=\dimen117
+\IEEEiednormlabelsep=\dimen118
+\IEEEiedmathlabelsep=\dimen119
+\IEEEiedtopsep=\skip41
+\c@section=\count83
+\c@subsection=\count84
+\c@subsubsection=\count85
+\c@paragraph=\count86
+\c@IEEEsubequation=\count87
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\c@figure=\count88
+\c@table=\count89
+\@IEEEeqnnumcols=\count90
+\@IEEEeqncolcnt=\count91
+\@IEEEsubeqnnumrollback=\count92
+\@IEEEquantizeheightA=\dimen120
+\@IEEEquantizeheightB=\dimen121
+\@IEEEquantizeheightC=\dimen122
+\@IEEEquantizeprevdepth=\dimen123
+\@IEEEquantizemultiple=\count93
+\@IEEEquantizeboxA=\box26
+\@IEEEtmpitemindent=\dimen124
+\IEEEPARstartletwidth=\dimen125
+\c@IEEEbiography=\count94
+\@IEEEtranrubishbin=\box27
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip44
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks15
+\ex@=\dimen126
+))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen127
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count95
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count96
+\leftroot@=\count97
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count98
+\DOTSCASE@=\count99
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box28
+\strutbox@=\box29
+\big@size=\dimen128
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count100
+\c@MaxMatrixCols=\count101
+\dotsspace@=\muskip10
+\c@parentequation=\count102
+\dspbrk@lvl=\count103
+\tag@help=\toks16
+\row@=\count104
+\column@=\count105
+\maxfields@=\count106
+\andhelp@=\toks17
+\eqnshift@=\dimen129
+\alignsep@=\dimen130
+\tagshift@=\dimen131
+\tagwidth@=\dimen132
+\totwidth@=\dimen133
+\lineht@=\dimen134
+\@envbody=\toks18
+\multlinegap=\skip45
+\multlinetaggap=\skip46
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/cite/cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/algorithms/algorithmic.sty
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks20
+)
+\c@ALC@unique=\count107
+\c@ALC@line=\count108
+\c@ALC@rem=\count109
+\c@ALC@depth=\count110
+\ALC@tlm=\skip47
+\algorithmicindent=\skip48
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen135
+\Gin@req@width=\dimen136
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2017/04/05 v2.0i Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+Now handling font encoding TS1 ...
+... processing UTF-8 mapping file for font encoding TS1
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/ts1enc.dfu
+File: ts1enc.dfu 2018/04/05 v1.2c UTF-8 support for inputenc
+   defining Unicode char U+00A2 (decimal 162)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A5 (decimal 165)
+   defining Unicode char U+00A6 (decimal 166)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00A8 (decimal 168)
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AC (decimal 172)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00AF (decimal 175)
+   defining Unicode char U+00B0 (decimal 176)
+   defining Unicode char U+00B1 (decimal 177)
+   defining Unicode char U+00B2 (decimal 178)
+   defining Unicode char U+00B3 (decimal 179)
+   defining Unicode char U+00B4 (decimal 180)
+   defining Unicode char U+00B5 (decimal 181)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+00B9 (decimal 185)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+00BC (decimal 188)
+   defining Unicode char U+00BD (decimal 189)
+   defining Unicode char U+00BE (decimal 190)
+   defining Unicode char U+00D7 (decimal 215)
+   defining Unicode char U+00F7 (decimal 247)
+   defining Unicode char U+0192 (decimal 402)
+   defining Unicode char U+02C7 (decimal 711)
+   defining Unicode char U+02D8 (decimal 728)
+   defining Unicode char U+02DD (decimal 733)
+   defining Unicode char U+0E3F (decimal 3647)
+   defining Unicode char U+2016 (decimal 8214)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+203B (decimal 8251)
+   defining Unicode char U+203D (decimal 8253)
+   defining Unicode char U+2044 (decimal 8260)
+   defining Unicode char U+204E (decimal 8270)
+   defining Unicode char U+2052 (decimal 8274)
+   defining Unicode char U+20A1 (decimal 8353)
+   defining Unicode char U+20A4 (decimal 8356)
+   defining Unicode char U+20A6 (decimal 8358)
+   defining Unicode char U+20A9 (decimal 8361)
+   defining Unicode char U+20AB (decimal 8363)
+   defining Unicode char U+20AC (decimal 8364)
+   defining Unicode char U+20B1 (decimal 8369)
+   defining Unicode char U+2103 (decimal 8451)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2117 (decimal 8471)
+   defining Unicode char U+211E (decimal 8478)
+   defining Unicode char U+2120 (decimal 8480)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2126 (decimal 8486)
+   defining Unicode char U+2127 (decimal 8487)
+   defining Unicode char U+212E (decimal 8494)
+   defining Unicode char U+2190 (decimal 8592)
+   defining Unicode char U+2191 (decimal 8593)
+   defining Unicode char U+2192 (decimal 8594)
+   defining Unicode char U+2193 (decimal 8595)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2422 (decimal 9250)
+   defining Unicode char U+25E6 (decimal 9702)
+   defining Unicode char U+25EF (decimal 9711)
+   defining Unicode char U+266A (decimal 9834)
+   defining Unicode char U+FEFF (decimal 65279)
+))
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/comment/comment.sty
+\CommentStream=\write3
+
+Excluding comment 'comment')
+(/usr/local/texlive/2018/texmf-dist/tex/latex/changepage/changepage.sty
+Package: changepage 2009/10/20 v1.0c check page and change page layout
+\c@cp@cntr=\count111
+\cp@tempcnt=\count112
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/tools/array.sty
+Package: array 2018/04/07 v2.4g Tabular extension package (FMi)
+\col@sep=\dimen137
+\ar@mcellbox=\box30
+\extrarowheight=\dimen138
+\NC@list=\toks21
+\extratabsurround=\skip49
+\backup@length=\skip50
+\ar@cellbox=\box31
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2016/05/22 v1.1-161 Sub-captions (AR)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen139
+\captionmargin@=\dimen140
+\captionwidth=\dimen141
+\caption@tempdima=\dimen142
+\caption@indent=\dimen143
+\caption@parindent=\dimen144
+\caption@hangindent=\dimen145
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+)
+
+Package caption Warning: Unsupported document class (or package) detected,
+(caption)                usage of the caption package is not recommended.
+See the caption package documentation for explanation.
+
+Package caption Info: \@makecaption = \long macro:#1#2->\ifx \@captype \@IEEEta
+blestring \footnotesize \bgroup \par \centering \@IEEEtabletopskipstrut {\norma
+lfont \footnotesize #1}\\{\normalfont \footnotesize \scshape #2}\par \addvspace
+ {0.5\baselineskip }\egroup \@IEEEtablecaptionsepspace \else \@IEEEfigurecaptio
+nsepspace \setbox \@tempboxa \hbox {\normalfont \footnotesize {#1.}\nobreakspac
+e \nobreakspace #2}\ifdim \wd \@tempboxa >\hsize \setbox \@tempboxa \hbox {\nor
+malfont \footnotesize {#1.}\nobreakspace \nobreakspace }\parbox [t]{\hsize }{\n
+ormalfont \footnotesize \noindent \unhbox \@tempboxa #2}\else \ifCLASSOPTIONcon
+ference \hbox to\hsize {\normalfont \footnotesize \hfil \box \@tempboxa \hfil }
+\else \hbox to\hsize {\normalfont \footnotesize \box \@tempboxa \hfil }\fi \fi 
+\fi .
+\c@ContinuedFloat=\count113
+)
+\c@subfigure=\count114
+\c@subtable=\count115
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2018/02/06 v6.86b Hypertext links for LaTeX
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen146
+\Hy@linkcounter=\count116
+\Hy@pagecounter=\count117
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2018/02/06 v6.86b Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count118
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4509.
+Package hyperref Info: Link nesting OFF on input line 4514.
+Package hyperref Info: Hyper index ON on input line 4517.
+Package hyperref Info: Plain pages OFF on input line 4524.
+Package hyperref Info: Backreferencing OFF on input line 4529.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4762.
+\c@Hy@tempcnt=\count119
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5115.
+\XeTeXLinkMargin=\dimen147
+\Fld@menulength=\count120
+\Field@Width=\dimen148
+\Fld@charsize=\dimen149
+Package hyperref Info: Hyper figures OFF on input line 6369.
+Package hyperref Info: Link nesting OFF on input line 6374.
+Package hyperref Info: Hyper index ON on input line 6377.
+Package hyperref Info: backreferencing OFF on input line 6384.
+Package hyperref Info: Link coloring OFF on input line 6389.
+Package hyperref Info: Link coloring with OCG OFF on input line 6394.
+Package hyperref Info: PDF/A mode OFF on input line 6399.
+LaTeX Info: Redefining \ref on input line 6439.
+LaTeX Info: Redefining \pageref on input line 6443.
+\Hy@abspage=\count121
+\c@Item=\count122
+\c@Hfootnote=\count123
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2018/02/06 v6.86b Hyperref driver for pdfTeX
+\Fld@listcount=\count124
+\c@bookmark@seq@number=\count125
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip51
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks22
+\verbatim@line=\toks23
+\verbatim@in@stream=\read1
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count126
+\float@exts=\toks24
+\float@box=\box32
+\@float@everytoks=\toks25
+\@floatcapt=\box33
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
+\multirow@colwidth=\skip52
+\multirow@cntb=\count127
+\multirow@dima=\skip53
+\bigstrutjot=\dimen150
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/tools/xr.sty
+Package: xr 1994/05/28 v5.02 eXternal References (DPC)
+)
+Package xr Info: IMPORTING LABELS FROM supp.aux on input line 22.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/makecell/makecell.sty
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+\rotheadsize=\dimen151
+\c@nlinenum=\count128
+\TeXr@lab=\toks26
+)
+(./main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 43.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 43.
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+
+-- Lines per column: 58 (exact).
+(/usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count129
+\scratchdimen=\dimen152
+\scratchbox=\box34
+\nofMPsegments=\count130
+\nofMParguments=\count131
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count132
+\MPscratchDim=\dimen153
+\MPnumerator=\count133
+\makeMPintoPDFobject=\count134
+\everyMPtoPDFconversion=\toks28
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\AtBeginShipoutBox=\box35
+Package hyperref Info: Link coloring OFF on input line 43.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count135
+)
+LaTeX Info: Redefining \ref on input line 43.
+LaTeX Info: Redefining \pageref on input line 43.
+LaTeX Info: Redefining \nameref on input line 43.
+
+(./main.out) (./main.out)
+\@outlinefile=\write4
+\openout4 = `main.out'.
+
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 65.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/omsptm.fd
+File: omsptm.fd 
+)
+
+LaTeX Font Warning: Font shape `OMS/ptm/bx/n' undefined
+(Font)              using `OMS/ptm/m/n' instead
+(Font)              for symbol `textbraceleft' on input line 65.
+
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <9> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 65.
+LaTeX Font Info:    Font shape `OMS/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 65.
+(./section_1_Introduction.tex
+<Figure/msa_io.png, id=103, 982.67125pt x 280.04625pt>
+File: Figure/msa_io.png Graphic file (type png)
+<use Figure/msa_io.png>
+Package pdftex.def Info: Figure/msa_io.png  used on input line 8.
+(pdftex.def)             Requested size: 258.0pt x 73.52391pt.
+ [1{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+
+ <./Figure/msa_io.png>]
+LaTeX Font Info:    Try loading font information for U+msa on input line 19.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 19.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [2]
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 48.
+)
+(./section_3_Methods.tex
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Figure/pipeline.pdf): PDF 
+inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<Figure/pipeline.pdf, id=171, 1145.88098pt x 953.64288pt>
+File: Figure/pipeline.pdf Graphic file (type pdf)
+<use Figure/pipeline.pdf>
+Package pdftex.def Info: Figure/pipeline.pdf  used on input line 9.
+(pdftex.def)             Requested size: 258.0pt x 214.7059pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 9--10
+ [][] 
+ []
+
+[3 <./Figure/pipeline.pdf>]
+Underfull \hbox (badness 2126) in paragraph at lines 48--49
+[]\OT1/ptm/b/n/10 Maximize sim-i-lar-ity based on non-gap columns
+ []
+
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <8> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 118.
+[4]) (./section_4_Results.tex
+Underfull \hbox (badness 2181) in paragraph at lines 34--36
+[]\OT1/ptm/m/n/10 We stud-ied a sim-u-lated dataset (100-taxon sim-u-lated
+ []
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 261.
+
+[5]
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 375.
+
+Package epstopdf Info: Source file: <Figure/summary/precomputedInit/23S.E/fnrat
+e_density_single_run.eps>
+(epstopdf)                    date: 2019-06-28 08:47:51
+(epstopdf)                    size: 33902 bytes
+(epstopdf)             Output file: <Figure/summary/precomputedInit/23S.E/fnrat
+e_density_single_run-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-06-28 08:47:58
+(epstopdf)                    size: 22337 bytes
+(epstopdf)             Command: <repstopdf --outfile=Figure/summary/precomputed
+Init/23S.E/fnrate_density_single_run-eps-converted-to.pdf Figure/summary/precom
+putedInit/23S.E/fnrate_density_single_run.eps>
+(epstopdf)             \includegraphics on input line 394.
+Package epstopdf Info: Output file is already uptodate.
+<Figure/summary/precomputedInit/23S.E/fnrate_density_single_run-eps-converted-t
+o.pdf, id=337, 452.69125pt x 436.63126pt>
+File: Figure/summary/precomputedInit/23S.E/fnrate_density_single_run-eps-conver
+ted-to.pdf Graphic file (type pdf)
+<use Figure/summary/precomputedInit/23S.E/fnrate_density_single_run-eps-convert
+ed-to.pdf>
+Package pdftex.def Info: Figure/summary/precomputedInit/23S.E/fnrate_density_si
+ngle_run-eps-converted-to.pdf  used on input line 394.
+(pdftex.def)             Requested size: 129.0pt x 124.4212pt.
+Package epstopdf Info: Source file: <Figure/summary/precomputedInit/23S.E.aa_ag
+/fnrate_density_single_run.eps>
+(epstopdf)                    date: 2019-06-28 08:47:51
+(epstopdf)                    size: 20939 bytes
+(epstopdf)             Output file: <Figure/summary/precomputedInit/23S.E.aa_ag
+/fnrate_density_single_run-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-06-28 08:47:59
+(epstopdf)                    size: 13928 bytes
+(epstopdf)             Command: <repstopdf --outfile=Figure/summary/precomputed
+Init/23S.E.aa_ag/fnrate_density_single_run-eps-converted-to.pdf Figure/summary/
+precomputedInit/23S.E.aa_ag/fnrate_density_single_run.eps>
+(epstopdf)             \includegraphics on input line 399.
+Package epstopdf Info: Output file is already uptodate.
+<Figure/summary/precomputedInit/23S.E.aa_ag/fnrate_density_single_run-eps-conve
+rted-to.pdf, id=338, 438.63875pt x 334.24875pt>
+File: Figure/summary/precomputedInit/23S.E.aa_ag/fnrate_density_single_run-eps-
+converted-to.pdf Graphic file (type pdf)
+<use Figure/summary/precomputedInit/23S.E.aa_ag/fnrate_density_single_run-eps-c
+onverted-to.pdf>
+Package pdftex.def Info: Figure/summary/precomputedInit/23S.E.aa_ag/fnrate_dens
+ity_single_run-eps-converted-to.pdf  used on input line 399.
+(pdftex.def)             Requested size: 129.0pt x 98.3016pt.
+Package epstopdf Info: Source file: <Figure/summary/precomputedInit/23S.E/objse
+t_fnrate_rank.eps>
+(epstopdf)                    date: 2019-06-28 08:10:49
+(epstopdf)                    size: 18755 bytes
+(epstopdf)             Output file: <Figure/summary/precomputedInit/23S.E/objse
+t_fnrate_rank-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-06-28 08:10:58
+(epstopdf)                    size: 11917 bytes
+(epstopdf)             Command: <repstopdf --outfile=Figure/summary/precomputed
+Init/23S.E/objset_fnrate_rank-eps-converted-to.pdf Figure/summary/precomputedIn
+it/23S.E/objset_fnrate_rank.eps>
+(epstopdf)             \includegraphics on input line 404.
+Package epstopdf Info: Output file is already uptodate.
+<Figure/summary/precomputedInit/23S.E/objset_fnrate_rank-eps-converted-to.pdf, 
+id=339, 438.63875pt x 336.25626pt>
+File: Figure/summary/precomputedInit/23S.E/objset_fnrate_rank-eps-converted-to.
+pdf Graphic file (type pdf)
+<use Figure/summary/precomputedInit/23S.E/objset_fnrate_rank-eps-converted-to.p
+df>
+Package pdftex.def Info: Figure/summary/precomputedInit/23S.E/objset_fnrate_ran
+k-eps-converted-to.pdf  used on input line 404.
+(pdftex.def)             Requested size: 129.0pt x 98.89201pt.
+Package epstopdf Info: Source file: <Figure/summary/precomputedInit/23S.E.aa_ag
+/objset_fnrate_rank.eps>
+(epstopdf)                    date: 2019-06-28 08:10:49
+(epstopdf)                    size: 20470 bytes
+(epstopdf)             Output file: <Figure/summary/precomputedInit/23S.E.aa_ag
+/objset_fnrate_rank-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-06-28 08:10:59
+(epstopdf)                    size: 12417 bytes
+(epstopdf)             Command: <repstopdf --outfile=Figure/summary/precomputed
+Init/23S.E.aa_ag/objset_fnrate_rank-eps-converted-to.pdf Figure/summary/precomp
+utedInit/23S.E.aa_ag/objset_fnrate_rank.eps>
+(epstopdf)             \includegraphics on input line 409.
+Package epstopdf Info: Output file is already uptodate.
+<Figure/summary/precomputedInit/23S.E.aa_ag/objset_fnrate_rank-eps-converted-to
+.pdf, id=340, 450.68375pt x 336.25626pt>
+File: Figure/summary/precomputedInit/23S.E.aa_ag/objset_fnrate_rank-eps-convert
+ed-to.pdf Graphic file (type pdf)
+<use Figure/summary/precomputedInit/23S.E.aa_ag/objset_fnrate_rank-eps-converte
+d-to.pdf>
+Package pdftex.def Info: Figure/summary/precomputedInit/23S.E.aa_ag/objset_fnra
+te_rank-eps-converted-to.pdf  used on input line 409.
+(pdftex.def)             Requested size: 129.0pt x 96.24449pt.
+Package epstopdf Info: Source file: <Figure/summary/precomputedInit/23S.E/tc_de
+nsity_single_run.eps>
+(epstopdf)                    date: 2019-06-28 08:27:29
+(epstopdf)                    size: 20327 bytes
+(epstopdf)             Output file: <Figure/summary/precomputedInit/23S.E/tc_de
+nsity_single_run-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-06-28 08:27:44
+(epstopdf)                    size: 13689 bytes
+(epstopdf)             Command: <repstopdf --outfile=Figure/summary/precomputed
+Init/23S.E/tc_density_single_run-eps-converted-to.pdf Figure/summary/precompute
+dInit/23S.E/tc_density_single_run.eps>
+(epstopdf)             \includegraphics on input line 415.
+Package epstopdf Info: Output file is already uptodate.
+<Figure/summary/precomputedInit/23S.E/tc_density_single_run-eps-converted-to.pd
+f, id=341, 454.69875pt x 338.26375pt>
+File: Figure/summary/precomputedInit/23S.E/tc_density_single_run-eps-converted-
+to.pdf Graphic file (type pdf)
+<use Figure/summary/precomputedInit/23S.E/tc_density_single_run-eps-converted-t
+o.pdf>
+Package pdftex.def Info: Figure/summary/precomputedInit/23S.E/tc_density_single
+_run-eps-converted-to.pdf  used on input line 415.
+(pdftex.def)             Requested size: 129.0pt x 95.96744pt.
+Package epstopdf Info: Source file: <Figure/summary/precomputedInit/23S.E.aa_ag
+/tc_density_single_run.eps>
+(epstopdf)                    date: 2019-06-28 08:27:29
+(epstopdf)                    size: 21404 bytes
+(epstopdf)             Output file: <Figure/summary/precomputedInit/23S.E.aa_ag
+/tc_density_single_run-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-06-28 08:27:44
+(epstopdf)                    size: 13733 bytes
+(epstopdf)             Command: <repstopdf --outfile=Figure/summary/precomputed
+Init/23S.E.aa_ag/tc_density_single_run-eps-converted-to.pdf Figure/summary/prec
+omputedInit/23S.E.aa_ag/tc_density_single_run.eps>
+(epstopdf)             \includegraphics on input line 420.
+Package epstopdf Info: Output file is already uptodate.
+<Figure/summary/precomputedInit/23S.E.aa_ag/tc_density_single_run-eps-converted
+-to.pdf, id=342, 466.74374pt x 334.24875pt>
+File: Figure/summary/precomputedInit/23S.E.aa_ag/tc_density_single_run-eps-conv
+erted-to.pdf Graphic file (type pdf)
+<use Figure/summary/precomputedInit/23S.E.aa_ag/tc_density_single_run-eps-conve
+rted-to.pdf>
+Package pdftex.def Info: Figure/summary/precomputedInit/23S.E.aa_ag/tc_density_
+single_run-eps-converted-to.pdf  used on input line 420.
+(pdftex.def)             Requested size: 129.0pt x 92.38025pt.
+Package epstopdf Info: Source file: <Figure/summary/precomputedInit/23S.E/objse
+t_tc_rank.eps>
+(epstopdf)                    date: 2019-06-28 08:27:33
+(epstopdf)                    size: 19406 bytes
+(epstopdf)             Output file: <Figure/summary/precomputedInit/23S.E/objse
+t_tc_rank-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-06-28 08:27:44
+(epstopdf)                    size: 12121 bytes
+(epstopdf)             Command: <repstopdf --outfile=Figure/summary/precomputed
+Init/23S.E/objset_tc_rank-eps-converted-to.pdf Figure/summary/precomputedInit/2
+3S.E/objset_tc_rank.eps>
+(epstopdf)             \includegraphics on input line 425.
+Package epstopdf Info: Output file is already uptodate.
+<Figure/summary/precomputedInit/23S.E/objset_tc_rank-eps-converted-to.pdf, id=3
+43, 450.68375pt x 336.25626pt>
+File: Figure/summary/precomputedInit/23S.E/objset_tc_rank-eps-converted-to.pdf 
+Graphic file (type pdf)
+<use Figure/summary/precomputedInit/23S.E/objset_tc_rank-eps-converted-to.pdf>
+Package pdftex.def Info: Figure/summary/precomputedInit/23S.E/objset_tc_rank-ep
+s-converted-to.pdf  used on input line 425.
+(pdftex.def)             Requested size: 129.0pt x 96.24449pt.
+Package epstopdf Info: Source file: <Figure/summary/precomputedInit/23S.E.aa_ag
+/objset_tc_rank.eps>
+(epstopdf)                    date: 2019-06-28 08:27:33
+(epstopdf)                    size: 21188 bytes
+(epstopdf)             Output file: <Figure/summary/precomputedInit/23S.E.aa_ag
+/objset_tc_rank-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-06-28 08:27:45
+(epstopdf)                    size: 12539 bytes
+(epstopdf)             Command: <repstopdf --outfile=Figure/summary/precomputed
+Init/23S.E.aa_ag/objset_tc_rank-eps-converted-to.pdf Figure/summary/precomputed
+Init/23S.E.aa_ag/objset_tc_rank.eps>
+(epstopdf)             \includegraphics on input line 430.
+Package epstopdf Info: Output file is already uptodate.
+<Figure/summary/precomputedInit/23S.E.aa_ag/objset_tc_rank-eps-converted-to.pdf
+, id=344, 464.73625pt x 336.25626pt>
+File: Figure/summary/precomputedInit/23S.E.aa_ag/objset_tc_rank-eps-converted-t
+o.pdf Graphic file (type pdf)
+<use Figure/summary/precomputedInit/23S.E.aa_ag/objset_tc_rank-eps-converted-to
+.pdf>
+Package pdftex.def Info: Figure/summary/precomputedInit/23S.E.aa_ag/objset_tc_r
+ank-eps-converted-to.pdf  used on input line 430.
+(pdftex.def)             Requested size: 129.0pt x 93.3353pt.
+Package epstopdf Info: Source file: <Figure/summary/precomputedInit/23S.E/pairs
+_density_single_run.eps>
+(epstopdf)                    date: 2019-06-28 08:27:31
+(epstopdf)                    size: 22360 bytes
+(epstopdf)             Output file: <Figure/summary/precomputedInit/23S.E/pairs
+_density_single_run-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-06-28 08:27:45
+(epstopdf)                    size: 14917 bytes
+(epstopdf)             Command: <repstopdf --outfile=Figure/summary/precomputed
+Init/23S.E/pairs_density_single_run-eps-converted-to.pdf Figure/summary/precomp
+utedInit/23S.E/pairs_density_single_run.eps>
+(epstopdf)             \includegraphics on input line 436.
+Package epstopdf Info: Output file is already uptodate.
+<Figure/summary/precomputedInit/23S.E/pairs_density_single_run-eps-converted-to
+.pdf, id=345, 440.64626pt x 334.24875pt>
+File: Figure/summary/precomputedInit/23S.E/pairs_density_single_run-eps-convert
+ed-to.pdf Graphic file (type pdf)
+<use Figure/summary/precomputedInit/23S.E/pairs_density_single_run-eps-converte
+d-to.pdf>
+Package pdftex.def Info: Figure/summary/precomputedInit/23S.E/pairs_density_sin
+gle_run-eps-converted-to.pdf  used on input line 436.
+(pdftex.def)             Requested size: 129.0pt x 97.85278pt.
+Package epstopdf Info: Source file: <Figure/summary/precomputedInit/23S.E.aa_ag
+/pairs_density_single_run.eps>
+(epstopdf)                    date: 2019-06-28 08:27:31
+(epstopdf)                    size: 22930 bytes
+(epstopdf)             Output file: <Figure/summary/precomputedInit/23S.E.aa_ag
+/pairs_density_single_run-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-06-28 08:27:46
+(epstopdf)                    size: 15143 bytes
+(epstopdf)             Command: <repstopdf --outfile=Figure/summary/precomputed
+Init/23S.E.aa_ag/pairs_density_single_run-eps-converted-to.pdf Figure/summary/p
+recomputedInit/23S.E.aa_ag/pairs_density_single_run.eps>
+(epstopdf)             \includegraphics on input line 441.
+Package epstopdf Info: Output file is already uptodate.
+<Figure/summary/precomputedInit/23S.E.aa_ag/pairs_density_single_run-eps-conver
+ted-to.pdf, id=346, 440.64626pt x 334.24875pt>
+File: Figure/summary/precomputedInit/23S.E.aa_ag/pairs_density_single_run-eps-c
+onverted-to.pdf Graphic file (type pdf)
+<use Figure/summary/precomputedInit/23S.E.aa_ag/pairs_density_single_run-eps-co
+nverted-to.pdf>
+Package pdftex.def Info: Figure/summary/precomputedInit/23S.E.aa_ag/pairs_densi
+ty_single_run-eps-converted-to.pdf  used on input line 441.
+(pdftex.def)             Requested size: 129.0pt x 97.85278pt.
+Package epstopdf Info: Source file: <Figure/summary/precomputedInit/23S.E/objse
+t_pairs_rank.eps>
+(epstopdf)                    date: 2019-06-28 07:52:28
+(epstopdf)                    size: 29255 bytes
+(epstopdf)             Output file: <Figure/summary/precomputedInit/23S.E/objse
+t_pairs_rank-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-06-28 07:59:35
+(epstopdf)                    size: 18634 bytes
+(epstopdf)             Command: <repstopdf --outfile=Figure/summary/precomputed
+Init/23S.E/objset_pairs_rank-eps-converted-to.pdf Figure/summary/precomputedIni
+t/23S.E/objset_pairs_rank.eps>
+(epstopdf)             \includegraphics on input line 446.
+Package epstopdf Info: Output file is already uptodate.
+<Figure/summary/precomputedInit/23S.E/objset_pairs_rank-eps-converted-to.pdf, i
+d=347, 438.63875pt x 382.42876pt>
+File: Figure/summary/precomputedInit/23S.E/objset_pairs_rank-eps-converted-to.p
+df Graphic file (type pdf)
+<use Figure/summary/precomputedInit/23S.E/objset_pairs_rank-eps-converted-to.pd
+f>
+Package pdftex.def Info: Figure/summary/precomputedInit/23S.E/objset_pairs_rank
+-eps-converted-to.pdf  used on input line 446.
+(pdftex.def)             Requested size: 129.0pt x 112.4712pt.
+Package epstopdf Info: Source file: <Figure/summary/precomputedInit/23S.E.aa_ag
+/objset_pairs_rank.eps>
+(epstopdf)                    date: 2019-06-28 07:52:28
+(epstopdf)                    size: 29289 bytes
+(epstopdf)             Output file: <Figure/summary/precomputedInit/23S.E.aa_ag
+/objset_pairs_rank-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-06-28 07:59:35
+(epstopdf)                    size: 19082 bytes
+(epstopdf)             Command: <repstopdf --outfile=Figure/summary/precomputed
+Init/23S.E.aa_ag/objset_pairs_rank-eps-converted-to.pdf Figure/summary/precompu
+tedInit/23S.E.aa_ag/objset_pairs_rank.eps>
+(epstopdf)             \includegraphics on input line 451.
+Package epstopdf Info: Output file is already uptodate.
+<Figure/summary/precomputedInit/23S.E.aa_ag/objset_pairs_rank-eps-converted-to.
+pdf, id=348, 438.63875pt x 382.42876pt>
+File: Figure/summary/precomputedInit/23S.E.aa_ag/objset_pairs_rank-eps-converte
+d-to.pdf Graphic file (type pdf)
+<use Figure/summary/precomputedInit/23S.E.aa_ag/objset_pairs_rank-eps-converted
+-to.pdf>
+Package pdftex.def Info: Figure/summary/precomputedInit/23S.E.aa_ag/objset_pair
+s_rank-eps-converted-to.pdf  used on input line 451.
+(pdftex.def)             Requested size: 129.0pt x 112.4712pt.
+Package epstopdf Info: Source file: <Figure/summary/precomputedInit/23S.E/fnrat
+e_vs_tc.eps>
+(epstopdf)                    date: 2019-06-28 08:27:36
+(epstopdf)                    size: 19750 bytes
+(epstopdf)             Output file: <Figure/summary/precomputedInit/23S.E/fnrat
+e_vs_tc-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-06-28 08:27:46
+(epstopdf)                    size: 11022 bytes
+(epstopdf)             Command: <repstopdf --outfile=Figure/summary/precomputed
+Init/23S.E/fnrate_vs_tc-eps-converted-to.pdf Figure/summary/precomputedInit/23S
+.E/fnrate_vs_tc.eps>
+(epstopdf)             \includegraphics on input line 457.
+Package epstopdf Info: Output file is already uptodate.
+<Figure/summary/precomputedInit/23S.E/fnrate_vs_tc-eps-converted-to.pdf, id=349
+, 438.63875pt x 334.24875pt>
+File: Figure/summary/precomputedInit/23S.E/fnrate_vs_tc-eps-converted-to.pdf Gr
+aphic file (type pdf)
+<use Figure/summary/precomputedInit/23S.E/fnrate_vs_tc-eps-converted-to.pdf>
+Package pdftex.def Info: Figure/summary/precomputedInit/23S.E/fnrate_vs_tc-eps-
+converted-to.pdf  used on input line 457.
+(pdftex.def)             Requested size: 134.15717pt x 102.22878pt.
+Package epstopdf Info: Source file: <Figure/summary/precomputedInit/23S.E.aa_ag
+/fnrate_vs_tc.eps>
+(epstopdf)                    date: 2019-06-28 08:27:36
+(epstopdf)                    size: 20974 bytes
+(epstopdf)             Output file: <Figure/summary/precomputedInit/23S.E.aa_ag
+/fnrate_vs_tc-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-06-28 08:27:46
+(epstopdf)                    size: 11153 bytes
+(epstopdf)             Command: <repstopdf --outfile=Figure/summary/precomputed
+Init/23S.E.aa_ag/fnrate_vs_tc-eps-converted-to.pdf Figure/summary/precomputedIn
+it/23S.E.aa_ag/fnrate_vs_tc.eps>
+(epstopdf)             \includegraphics on input line 462.
+Package epstopdf Info: Output file is already uptodate.
+<Figure/summary/precomputedInit/23S.E.aa_ag/fnrate_vs_tc-eps-converted-to.pdf, 
+id=350, 450.68375pt x 334.24875pt>
+File: Figure/summary/precomputedInit/23S.E.aa_ag/fnrate_vs_tc-eps-converted-to.
+pdf Graphic file (type pdf)
+<use Figure/summary/precomputedInit/23S.E.aa_ag/fnrate_vs_tc-eps-converted-to.p
+df>
+Package pdftex.def Info: Figure/summary/precomputedInit/23S.E.aa_ag/fnrate_vs_t
+c-eps-converted-to.pdf  used on input line 462.
+(pdftex.def)             Requested size: 134.15717pt x 99.49506pt.
+Package epstopdf Info: Source file: <Figure/summary/precomputedInit/23S.E/fnrat
+e_vs_sp.eps>
+(epstopdf)                    date: 2019-06-28 08:32:40
+(epstopdf)                    size: 22235 bytes
+(epstopdf)             Output file: <Figure/summary/precomputedInit/23S.E/fnrat
+e_vs_sp-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-06-28 08:32:46
+(epstopdf)                    size: 12469 bytes
+(epstopdf)             Command: <repstopdf --outfile=Figure/summary/precomputed
+Init/23S.E/fnrate_vs_sp-eps-converted-to.pdf Figure/summary/precomputedInit/23S
+.E/fnrate_vs_sp.eps>
+(epstopdf)             \includegraphics on input line 467.
+Package epstopdf Info: Output file is already uptodate.
+<Figure/summary/precomputedInit/23S.E/fnrate_vs_sp-eps-converted-to.pdf, id=351
+, 438.63875pt x 334.24875pt>
+File: Figure/summary/precomputedInit/23S.E/fnrate_vs_sp-eps-converted-to.pdf Gr
+aphic file (type pdf)
+<use Figure/summary/precomputedInit/23S.E/fnrate_vs_sp-eps-converted-to.pdf>
+Package pdftex.def Info: Figure/summary/precomputedInit/23S.E/fnrate_vs_sp-eps-
+converted-to.pdf  used on input line 467.
+(pdftex.def)             Requested size: 134.15717pt x 102.22878pt.
+Package epstopdf Info: Source file: <Figure/summary/precomputedInit/23S.E.aa_ag
+/fnrate_vs_sp.eps>
+(epstopdf)                    date: 2019-06-28 08:32:39
+(epstopdf)                    size: 24029 bytes
+(epstopdf)             Output file: <Figure/summary/precomputedInit/23S.E.aa_ag
+/fnrate_vs_sp-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-06-28 08:32:46
+(epstopdf)                    size: 12833 bytes
+(epstopdf)             Command: <repstopdf --outfile=Figure/summary/precomputed
+Init/23S.E.aa_ag/fnrate_vs_sp-eps-converted-to.pdf Figure/summary/precomputedIn
+it/23S.E.aa_ag/fnrate_vs_sp.eps>
+(epstopdf)             \includegraphics on input line 472.
+Package epstopdf Info: Output file is already uptodate.
+<Figure/summary/precomputedInit/23S.E.aa_ag/fnrate_vs_sp-eps-converted-to.pdf, 
+id=352, 450.68375pt x 334.24875pt>
+File: Figure/summary/precomputedInit/23S.E.aa_ag/fnrate_vs_sp-eps-converted-to.
+pdf Graphic file (type pdf)
+<use Figure/summary/precomputedInit/23S.E.aa_ag/fnrate_vs_sp-eps-converted-to.p
+df>
+Package pdftex.def Info: Figure/summary/precomputedInit/23S.E.aa_ag/fnrate_vs_s
+p-eps-converted-to.pdf  used on input line 472.
+(pdftex.def)             Requested size: 134.15717pt x 99.49506pt.
+
+Underfull \hbox (badness 6332) in paragraph at lines 393--476
+[][] [] [] []
+ []
+
+
+Underfull \hbox (badness 6332) in paragraph at lines 393--476
+[]$ $[]$ $[]$ $[]$
+ []
+
+
+Underfull \hbox (badness 6332) in paragraph at lines 393--476
+[]$ $[]$ $[]$ $[]$
+ []
+
+[6] [7 <./Figure/summary/precomputedInit/23S.E/fnrate_density_single_run-eps-co
+nverted-to.pdf> <./Figure/summary/precomputedInit/23S.E.aa_ag/fnrate_density_si
+ngle_run-eps-converted-to.pdf> <./Figure/summary/precomputedInit/23S.E/objset_f
+nrate_rank-eps-converted-to.pdf> <./Figure/summary/precomputedInit/23S.E.aa_ag/
+objset_fnrate_rank-eps-converted-to.pdf> <./Figure/summary/precomputedInit/23S.
+E/tc_density_single_run-eps-converted-to.pdf> <./Figure/summary/precomputedInit
+/23S.E.aa_ag/tc_density_single_run-eps-converted-to.pdf> <./Figure/summary/prec
+omputedInit/23S.E/objset_tc_rank-eps-converted-to.pdf> <./Figure/summary/precom
+putedInit/23S.E.aa_ag/objset_tc_rank-eps-converted-to.pdf> <./Figure/summary/pr
+ecomputedInit/23S.E/pairs_density_single_run-eps-converted-to.pdf> <./Figure/su
+mmary/precomputedInit/23S.E.aa_ag/pairs_density_single_run-eps-converted-to.pdf
+> <./Figure/summary/precomputedInit/23S.E/objset_pairs_rank-eps-converted-to.pd
+f> <./Figure/summary/precomputedInit/23S.E.aa_ag/objset_pairs_rank-eps-converte
+d-to.pdf> <./Figure/summary/precomputedInit/23S.E/fnrate_vs_tc-eps-converted-to
+.pdf> <./Figure/summary/precomputedInit/23S.E.aa_ag/fnrate_vs_tc-eps-converted-
+to.pdf> <./Figure/summary/precomputedInit/23S.E/fnrate_vs_sp-eps-converted-to.p
+df> <./Figure/summary/precomputedInit/23S.E.aa_ag/fnrate_vs_sp-eps-converted-to
+.pdf>]
+Package epstopdf Info: Source file: <Figure/summary/precomputedInit/Balibase/BB
+11005_fnrate_density_single_run.eps>
+(epstopdf)                    date: 2019-06-28 09:10:20
+(epstopdf)                    size: 34954 bytes
+(epstopdf)             Output file: <Figure/summary/precomputedInit/Balibase/BB
+11005_fnrate_density_single_run-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-06-28 09:10:27
+(epstopdf)                    size: 22885 bytes
+(epstopdf)             Command: <repstopdf --outfile=Figure/summary/precomputed
+Init/Balibase/BB11005_fnrate_density_single_run-eps-converted-to.pdf Figure/sum
+mary/precomputedInit/Balibase/BB11005_fnrate_density_single_run.eps>
+(epstopdf)             \includegraphics on input line 513.
+Package epstopdf Info: Output file is already uptodate.
+<Figure/summary/precomputedInit/Balibase/BB11005_fnrate_density_single_run-eps-
+converted-to.pdf, id=894, 448.67625pt x 430.60875pt>
+File: Figure/summary/precomputedInit/Balibase/BB11005_fnrate_density_single_run
+-eps-converted-to.pdf Graphic file (type pdf)
+<use Figure/summary/precomputedInit/Balibase/BB11005_fnrate_density_single_run-
+eps-converted-to.pdf>
+Package pdftex.def Info: Figure/summary/precomputedInit/Balibase/BB11005_fnrate
+_density_single_run-eps-converted-to.pdf  used on input line 513.
+(pdftex.def)             Requested size: 134.15717pt x 128.74995pt.
+Package epstopdf Info: Source file: <Figure/summary/precomputedInit/Balibase/BB
+11018_fnrate_density_single_run.eps>
+(epstopdf)                    date: 2019-06-28 09:10:20
+(epstopdf)                    size: 22540 bytes
+(epstopdf)             Output file: <Figure/summary/precomputedInit/Balibase/BB
+11018_fnrate_density_single_run-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-06-28 09:10:27
+(epstopdf)                    size: 14853 bytes
+(epstopdf)             Command: <repstopdf --outfile=Figure/summary/precomputed
+Init/Balibase/BB11018_fnrate_density_single_run-eps-converted-to.pdf Figure/sum
+mary/precomputedInit/Balibase/BB11018_fnrate_density_single_run.eps>
+(epstopdf)             \includegraphics on input line 518.
+Package epstopdf Info: Output file is already uptodate.
+<Figure/summary/precomputedInit/Balibase/BB11018_fnrate_density_single_run-eps-
+converted-to.pdf, id=895, 438.63875pt x 334.24875pt>
+File: Figure/summary/precomputedInit/Balibase/BB11018_fnrate_density_single_run
+-eps-converted-to.pdf Graphic file (type pdf)
+<use Figure/summary/precomputedInit/Balibase/BB11018_fnrate_density_single_run-
+eps-converted-to.pdf>
+Package pdftex.def Info: Figure/summary/precomputedInit/Balibase/BB11018_fnrate
+_density_single_run-eps-converted-to.pdf  used on input line 518.
+(pdftex.def)             Requested size: 134.15717pt x 102.22878pt.
+Package epstopdf Info: Source file: <Figure/summary/precomputedInit/Balibase/BB
+11020_fnrate_density_single_run.eps>
+(epstopdf)                    date: 2019-06-28 09:10:20
+(epstopdf)                    size: 22898 bytes
+(epstopdf)             Output file: <Figure/summary/precomputedInit/Balibase/BB
+11020_fnrate_density_single_run-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-06-28 09:10:28
+(epstopdf)                    size: 14403 bytes
+(epstopdf)             Command: <repstopdf --outfile=Figure/summary/precomputed
+Init/Balibase/BB11020_fnrate_density_single_run-eps-converted-to.pdf Figure/sum
+mary/precomputedInit/Balibase/BB11020_fnrate_density_single_run.eps>
+(epstopdf)             \includegraphics on input line 523.
+Package epstopdf Info: Output file is already uptodate.
+<Figure/summary/precomputedInit/Balibase/BB11020_fnrate_density_single_run-eps-
+converted-to.pdf, id=896, 438.63875pt x 334.24875pt>
+File: Figure/summary/precomputedInit/Balibase/BB11020_fnrate_density_single_run
+-eps-converted-to.pdf Graphic file (type pdf)
+<use Figure/summary/precomputedInit/Balibase/BB11020_fnrate_density_single_run-
+eps-converted-to.pdf>
+Package pdftex.def Info: Figure/summary/precomputedInit/Balibase/BB11020_fnrate
+_density_single_run-eps-converted-to.pdf  used on input line 523.
+(pdftex.def)             Requested size: 134.15717pt x 102.22878pt.
+Package epstopdf Info: Source file: <Figure/summary/precomputedInit/Balibase/BB
+11033_fnrate_density_single_run.eps>
+(epstopdf)                    date: 2019-06-28 09:10:20
+(epstopdf)                    size: 23405 bytes
+(epstopdf)             Output file: <Figure/summary/precomputedInit/Balibase/BB
+11033_fnrate_density_single_run-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-06-28 09:10:28
+(epstopdf)                    size: 14734 bytes
+(epstopdf)             Command: <repstopdf --outfile=Figure/summary/precomputed
+Init/Balibase/BB11033_fnrate_density_single_run-eps-converted-to.pdf Figure/sum
+mary/precomputedInit/Balibase/BB11033_fnrate_density_single_run.eps>
+(epstopdf)             \includegraphics on input line 528.
+Package epstopdf Info: Output file is already uptodate.
+<Figure/summary/precomputedInit/Balibase/BB11033_fnrate_density_single_run-eps-
+converted-to.pdf, id=897, 438.63875pt x 334.24875pt>
+File: Figure/summary/precomputedInit/Balibase/BB11033_fnrate_density_single_run
+-eps-converted-to.pdf Graphic file (type pdf)
+<use Figure/summary/precomputedInit/Balibase/BB11033_fnrate_density_single_run-
+eps-converted-to.pdf>
+Package pdftex.def Info: Figure/summary/precomputedInit/Balibase/BB11033_fnrate
+_density_single_run-eps-converted-to.pdf  used on input line 528.
+(pdftex.def)             Requested size: 134.15717pt x 102.22878pt.
+Package epstopdf Info: Source file: <Figure/summary/precomputedInit/Balibase/BB
+11005_objset_fnrate_rank.eps>
+(epstopdf)                    date: 2019-06-28 09:14:05
+(epstopdf)                    size: 20204 bytes
+(epstopdf)             Output file: <Figure/summary/precomputedInit/Balibase/BB
+11005_objset_fnrate_rank-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-06-28 09:14:12
+(epstopdf)                    size: 12458 bytes
+(epstopdf)             Command: <repstopdf --outfile=Figure/summary/precomputed
+Init/Balibase/BB11005_objset_fnrate_rank-eps-converted-to.pdf Figure/summary/pr
+ecomputedInit/Balibase/BB11005_objset_fnrate_rank.eps>
+(epstopdf)             \includegraphics on input line 538.
+Package epstopdf Info: Output file is already uptodate.
+<Figure/summary/precomputedInit/Balibase/BB11005_objset_fnrate_rank-eps-convert
+ed-to.pdf, id=898, 438.63875pt x 336.25626pt>
+File: Figure/summary/precomputedInit/Balibase/BB11005_objset_fnrate_rank-eps-co
+nverted-to.pdf Graphic file (type pdf)
+<use Figure/summary/precomputedInit/Balibase/BB11005_objset_fnrate_rank-eps-con
+verted-to.pdf>
+Package pdftex.def Info: Figure/summary/precomputedInit/Balibase/BB11005_objset
+_fnrate_rank-eps-converted-to.pdf  used on input line 538.
+(pdftex.def)             Requested size: 134.15717pt x 102.84276pt.
+Package epstopdf Info: Source file: <Figure/summary/precomputedInit/Balibase/BB
+11018_objset_fnrate_rank.eps>
+(epstopdf)                    date: 2019-06-28 09:14:05
+(epstopdf)                    size: 21755 bytes
+(epstopdf)             Output file: <Figure/summary/precomputedInit/Balibase/BB
+11018_objset_fnrate_rank-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-06-28 09:14:13
+(epstopdf)                    size: 12793 bytes
+(epstopdf)             Command: <repstopdf --outfile=Figure/summary/precomputed
+Init/Balibase/BB11018_objset_fnrate_rank-eps-converted-to.pdf Figure/summary/pr
+ecomputedInit/Balibase/BB11018_objset_fnrate_rank.eps>
+(epstopdf)             \includegraphics on input line 543.
+Package epstopdf Info: Output file is already uptodate.
+<Figure/summary/precomputedInit/Balibase/BB11018_objset_fnrate_rank-eps-convert
+ed-to.pdf, id=899, 438.63875pt x 336.25626pt>
+File: Figure/summary/precomputedInit/Balibase/BB11018_objset_fnrate_rank-eps-co
+nverted-to.pdf Graphic file (type pdf)
+<use Figure/summary/precomputedInit/Balibase/BB11018_objset_fnrate_rank-eps-con
+verted-to.pdf>
+Package pdftex.def Info: Figure/summary/precomputedInit/Balibase/BB11018_objset
+_fnrate_rank-eps-converted-to.pdf  used on input line 543.
+(pdftex.def)             Requested size: 134.15717pt x 102.84276pt.
+Package epstopdf Info: Source file: <Figure/summary/precomputedInit/Balibase/BB
+11020_objset_fnrate_rank.eps>
+(epstopdf)                    date: 2019-06-28 09:14:05
+(epstopdf)                    size: 19899 bytes
+(epstopdf)             Output file: <Figure/summary/precomputedInit/Balibase/BB
+11020_objset_fnrate_rank-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-06-28 09:14:13
+(epstopdf)                    size: 12375 bytes
+(epstopdf)             Command: <repstopdf --outfile=Figure/summary/precomputed
+Init/Balibase/BB11020_objset_fnrate_rank-eps-converted-to.pdf Figure/summary/pr
+ecomputedInit/Balibase/BB11020_objset_fnrate_rank.eps>
+(epstopdf)             \includegraphics on input line 548.
+Package epstopdf Info: Output file is already uptodate.
+<Figure/summary/precomputedInit/Balibase/BB11020_objset_fnrate_rank-eps-convert
+ed-to.pdf, id=900, 438.63875pt x 336.25626pt>
+File: Figure/summary/precomputedInit/Balibase/BB11020_objset_fnrate_rank-eps-co
+nverted-to.pdf Graphic file (type pdf)
+<use Figure/summary/precomputedInit/Balibase/BB11020_objset_fnrate_rank-eps-con
+verted-to.pdf>
+Package pdftex.def Info: Figure/summary/precomputedInit/Balibase/BB11020_objset
+_fnrate_rank-eps-converted-to.pdf  used on input line 548.
+(pdftex.def)             Requested size: 134.15717pt x 102.84276pt.
+Package epstopdf Info: Source file: <Figure/summary/precomputedInit/Balibase/BB
+11033_objset_fnrate_rank.eps>
+(epstopdf)                    date: 2019-06-28 09:14:05
+(epstopdf)                    size: 20225 bytes
+(epstopdf)             Output file: <Figure/summary/precomputedInit/Balibase/BB
+11033_objset_fnrate_rank-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-06-28 09:14:13
+(epstopdf)                    size: 12476 bytes
+(epstopdf)             Command: <repstopdf --outfile=Figure/summary/precomputed
+Init/Balibase/BB11033_objset_fnrate_rank-eps-converted-to.pdf Figure/summary/pr
+ecomputedInit/Balibase/BB11033_objset_fnrate_rank.eps>
+(epstopdf)             \includegraphics on input line 558.
+Package epstopdf Info: Output file is already uptodate.
+<Figure/summary/precomputedInit/Balibase/BB11033_objset_fnrate_rank-eps-convert
+ed-to.pdf, id=901, 438.63875pt x 336.25626pt>
+File: Figure/summary/precomputedInit/Balibase/BB11033_objset_fnrate_rank-eps-co
+nverted-to.pdf Graphic file (type pdf)
+<use Figure/summary/precomputedInit/Balibase/BB11033_objset_fnrate_rank-eps-con
+verted-to.pdf>
+Package pdftex.def Info: Figure/summary/precomputedInit/Balibase/BB11033_objset
+_fnrate_rank-eps-converted-to.pdf  used on input line 558.
+(pdftex.def)             Requested size: 134.15717pt x 102.84276pt.
+Package epstopdf Info: Source file: <Figure/summary/precomputedInit/Balibase/BB
+11005_fnrate_vs_tc_2.eps>
+(epstopdf)                    date: 2019-06-28 09:12:41
+(epstopdf)                    size: 22712 bytes
+(epstopdf)             Output file: <Figure/summary/precomputedInit/Balibase/BB
+11005_fnrate_vs_tc_2-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-06-28 09:12:51
+(epstopdf)                    size: 11347 bytes
+(epstopdf)             Command: <repstopdf --outfile=Figure/summary/precomputed
+Init/Balibase/BB11005_fnrate_vs_tc_2-eps-converted-to.pdf Figure/summary/precom
+putedInit/Balibase/BB11005_fnrate_vs_tc_2.eps>
+(epstopdf)             \includegraphics on input line 565.
+Package epstopdf Info: Output file is already uptodate.
+<Figure/summary/precomputedInit/Balibase/BB11005_fnrate_vs_tc_2-eps-converted-t
+o.pdf, id=902, 438.63875pt x 334.24875pt>
+File: Figure/summary/precomputedInit/Balibase/BB11005_fnrate_vs_tc_2-eps-conver
+ted-to.pdf Graphic file (type pdf)
+<use Figure/summary/precomputedInit/Balibase/BB11005_fnrate_vs_tc_2-eps-convert
+ed-to.pdf>
+Package pdftex.def Info: Figure/summary/precomputedInit/Balibase/BB11005_fnrate
+_vs_tc_2-eps-converted-to.pdf  used on input line 565.
+(pdftex.def)             Requested size: 134.15717pt x 102.22878pt.
+Package epstopdf Info: Source file: <Figure/summary/precomputedInit/Balibase/BB
+11018_fnrate_vs_tc_2.eps>
+(epstopdf)                    date: 2019-06-28 09:12:41
+(epstopdf)                    size: 23942 bytes
+(epstopdf)             Output file: <Figure/summary/precomputedInit/Balibase/BB
+11018_fnrate_vs_tc_2-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-06-28 09:12:52
+(epstopdf)                    size: 12051 bytes
+(epstopdf)             Command: <repstopdf --outfile=Figure/summary/precomputed
+Init/Balibase/BB11018_fnrate_vs_tc_2-eps-converted-to.pdf Figure/summary/precom
+putedInit/Balibase/BB11018_fnrate_vs_tc_2.eps>
+(epstopdf)             \includegraphics on input line 570.
+Package epstopdf Info: Output file is already uptodate.
+<Figure/summary/precomputedInit/Balibase/BB11018_fnrate_vs_tc_2-eps-converted-t
+o.pdf, id=903, 438.63875pt x 334.24875pt>
+File: Figure/summary/precomputedInit/Balibase/BB11018_fnrate_vs_tc_2-eps-conver
+ted-to.pdf Graphic file (type pdf)
+<use Figure/summary/precomputedInit/Balibase/BB11018_fnrate_vs_tc_2-eps-convert
+ed-to.pdf>
+Package pdftex.def Info: Figure/summary/precomputedInit/Balibase/BB11018_fnrate
+_vs_tc_2-eps-converted-to.pdf  used on input line 570.
+(pdftex.def)             Requested size: 134.15717pt x 102.22878pt.
+Package epstopdf Info: Source file: <Figure/summary/precomputedInit/Balibase/BB
+11020_fnrate_vs_tc_2.eps>
+(epstopdf)                    date: 2019-06-28 09:12:41
+(epstopdf)                    size: 21622 bytes
+(epstopdf)             Output file: <Figure/summary/precomputedInit/Balibase/BB
+11020_fnrate_vs_tc_2-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-06-28 09:12:52
+(epstopdf)                    size: 10704 bytes
+(epstopdf)             Command: <repstopdf --outfile=Figure/summary/precomputed
+Init/Balibase/BB11020_fnrate_vs_tc_2-eps-converted-to.pdf Figure/summary/precom
+putedInit/Balibase/BB11020_fnrate_vs_tc_2.eps>
+(epstopdf)             \includegraphics on input line 575.
+Package epstopdf Info: Output file is already uptodate.
+<Figure/summary/precomputedInit/Balibase/BB11020_fnrate_vs_tc_2-eps-converted-t
+o.pdf, id=904, 438.63875pt x 334.24875pt>
+File: Figure/summary/precomputedInit/Balibase/BB11020_fnrate_vs_tc_2-eps-conver
+ted-to.pdf Graphic file (type pdf)
+<use Figure/summary/precomputedInit/Balibase/BB11020_fnrate_vs_tc_2-eps-convert
+ed-to.pdf>
+Package pdftex.def Info: Figure/summary/precomputedInit/Balibase/BB11020_fnrate
+_vs_tc_2-eps-converted-to.pdf  used on input line 575.
+(pdftex.def)             Requested size: 134.15717pt x 102.22878pt.
+Package epstopdf Info: Source file: <Figure/summary/precomputedInit/Balibase/BB
+11033_fnrate_vs_tc_2.eps>
+(epstopdf)                    date: 2019-06-28 09:12:41
+(epstopdf)                    size: 23830 bytes
+(epstopdf)             Output file: <Figure/summary/precomputedInit/Balibase/BB
+11033_fnrate_vs_tc_2-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-06-28 09:12:52
+(epstopdf)                    size: 11499 bytes
+(epstopdf)             Command: <repstopdf --outfile=Figure/summary/precomputed
+Init/Balibase/BB11033_fnrate_vs_tc_2-eps-converted-to.pdf Figure/summary/precom
+putedInit/Balibase/BB11033_fnrate_vs_tc_2.eps>
+(epstopdf)             \includegraphics on input line 580.
+Package epstopdf Info: Output file is already uptodate.
+<Figure/summary/precomputedInit/Balibase/BB11033_fnrate_vs_tc_2-eps-converted-t
+o.pdf, id=905, 438.63875pt x 334.24875pt>
+File: Figure/summary/precomputedInit/Balibase/BB11033_fnrate_vs_tc_2-eps-conver
+ted-to.pdf Graphic file (type pdf)
+<use Figure/summary/precomputedInit/Balibase/BB11033_fnrate_vs_tc_2-eps-convert
+ed-to.pdf>
+Package pdftex.def Info: Figure/summary/precomputedInit/Balibase/BB11033_fnrate
+_vs_tc_2-eps-converted-to.pdf  used on input line 580.
+(pdftex.def)             Requested size: 134.15717pt x 102.22878pt.
+Package epstopdf Info: Source file: <Figure/summary/precomputedInit/Balibase/BB
+11005_fnrate_vs_sp_2.eps>
+(epstopdf)                    date: 2019-06-28 09:12:33
+(epstopdf)                    size: 24659 bytes
+(epstopdf)             Output file: <Figure/summary/precomputedInit/Balibase/BB
+11005_fnrate_vs_sp_2-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-06-28 09:12:53
+(epstopdf)                    size: 12733 bytes
+(epstopdf)             Command: <repstopdf --outfile=Figure/summary/precomputed
+Init/Balibase/BB11005_fnrate_vs_sp_2-eps-converted-to.pdf Figure/summary/precom
+putedInit/Balibase/BB11005_fnrate_vs_sp_2.eps>
+(epstopdf)             \includegraphics on input line 585.
+Package epstopdf Info: Output file is already uptodate.
+<Figure/summary/precomputedInit/Balibase/BB11005_fnrate_vs_sp_2-eps-converted-t
+o.pdf, id=906, 438.63875pt x 334.24875pt>
+File: Figure/summary/precomputedInit/Balibase/BB11005_fnrate_vs_sp_2-eps-conver
+ted-to.pdf Graphic file (type pdf)
+<use Figure/summary/precomputedInit/Balibase/BB11005_fnrate_vs_sp_2-eps-convert
+ed-to.pdf>
+Package pdftex.def Info: Figure/summary/precomputedInit/Balibase/BB11005_fnrate
+_vs_sp_2-eps-converted-to.pdf  used on input line 585.
+(pdftex.def)             Requested size: 134.15717pt x 102.22878pt.
+Package epstopdf Info: Source file: <Figure/summary/precomputedInit/Balibase/BB
+11018_fnrate_vs_sp_2.eps>
+(epstopdf)                    date: 2019-06-28 09:12:33
+(epstopdf)                    size: 24218 bytes
+(epstopdf)             Output file: <Figure/summary/precomputedInit/Balibase/BB
+11018_fnrate_vs_sp_2-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-06-28 09:12:53
+(epstopdf)                    size: 12548 bytes
+(epstopdf)             Command: <repstopdf --outfile=Figure/summary/precomputed
+Init/Balibase/BB11018_fnrate_vs_sp_2-eps-converted-to.pdf Figure/summary/precom
+putedInit/Balibase/BB11018_fnrate_vs_sp_2.eps>
+(epstopdf)             \includegraphics on input line 590.
+Package epstopdf Info: Output file is already uptodate.
+<Figure/summary/precomputedInit/Balibase/BB11018_fnrate_vs_sp_2-eps-converted-t
+o.pdf, id=907, 438.63875pt x 334.24875pt>
+File: Figure/summary/precomputedInit/Balibase/BB11018_fnrate_vs_sp_2-eps-conver
+ted-to.pdf Graphic file (type pdf)
+<use Figure/summary/precomputedInit/Balibase/BB11018_fnrate_vs_sp_2-eps-convert
+ed-to.pdf>
+Package pdftex.def Info: Figure/summary/precomputedInit/Balibase/BB11018_fnrate
+_vs_sp_2-eps-converted-to.pdf  used on input line 590.
+(pdftex.def)             Requested size: 134.15717pt x 102.22878pt.
+Package epstopdf Info: Source file: <Figure/summary/precomputedInit/Balibase/BB
+11020_fnrate_vs_sp_2.eps>
+(epstopdf)                    date: 2019-06-28 09:12:34
+(epstopdf)                    size: 24401 bytes
+(epstopdf)             Output file: <Figure/summary/precomputedInit/Balibase/BB
+11020_fnrate_vs_sp_2-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-06-28 09:12:54
+(epstopdf)                    size: 12411 bytes
+(epstopdf)             Command: <repstopdf --outfile=Figure/summary/precomputed
+Init/Balibase/BB11020_fnrate_vs_sp_2-eps-converted-to.pdf Figure/summary/precom
+putedInit/Balibase/BB11020_fnrate_vs_sp_2.eps>
+(epstopdf)             \includegraphics on input line 595.
+Package epstopdf Info: Output file is already uptodate.
+<Figure/summary/precomputedInit/Balibase/BB11020_fnrate_vs_sp_2-eps-converted-t
+o.pdf, id=908, 438.63875pt x 334.24875pt>
+File: Figure/summary/precomputedInit/Balibase/BB11020_fnrate_vs_sp_2-eps-conver
+ted-to.pdf Graphic file (type pdf)
+<use Figure/summary/precomputedInit/Balibase/BB11020_fnrate_vs_sp_2-eps-convert
+ed-to.pdf>
+Package pdftex.def Info: Figure/summary/precomputedInit/Balibase/BB11020_fnrate
+_vs_sp_2-eps-converted-to.pdf  used on input line 595.
+(pdftex.def)             Requested size: 134.15717pt x 102.22878pt.
+Package epstopdf Info: Source file: <Figure/summary/precomputedInit/Balibase/BB
+11033_fnrate_vs_sp_2.eps>
+(epstopdf)                    date: 2019-06-28 09:12:34
+(epstopdf)                    size: 23376 bytes
+(epstopdf)             Output file: <Figure/summary/precomputedInit/Balibase/BB
+11033_fnrate_vs_sp_2-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-06-28 09:12:54
+(epstopdf)                    size: 11687 bytes
+(epstopdf)             Command: <repstopdf --outfile=Figure/summary/precomputed
+Init/Balibase/BB11033_fnrate_vs_sp_2-eps-converted-to.pdf Figure/summary/precom
+putedInit/Balibase/BB11033_fnrate_vs_sp_2.eps>
+(epstopdf)             \includegraphics on input line 600.
+Package epstopdf Info: Output file is already uptodate.
+<Figure/summary/precomputedInit/Balibase/BB11033_fnrate_vs_sp_2-eps-converted-t
+o.pdf, id=909, 438.63875pt x 334.24875pt>
+File: Figure/summary/precomputedInit/Balibase/BB11033_fnrate_vs_sp_2-eps-conver
+ted-to.pdf Graphic file (type pdf)
+<use Figure/summary/precomputedInit/Balibase/BB11033_fnrate_vs_sp_2-eps-convert
+ed-to.pdf>
+Package pdftex.def Info: Figure/summary/precomputedInit/Balibase/BB11033_fnrate
+_vs_sp_2-eps-converted-to.pdf  used on input line 600.
+(pdftex.def)             Requested size: 134.15717pt x 102.22878pt.
+Package epstopdf Info: Source file: <Figure/summary/precomputedInit/Balibase/BB
+11005_tc_density_single_run_2.eps>
+(epstopdf)                    date: 2019-06-28 09:18:53
+(epstopdf)                    size: 34548 bytes
+(epstopdf)             Output file: <Figure/summary/precomputedInit/Balibase/BB
+11005_tc_density_single_run_2-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-06-28 09:19:04
+(epstopdf)                    size: 21656 bytes
+(epstopdf)             Command: <repstopdf --outfile=Figure/summary/precomputed
+Init/Balibase/BB11005_tc_density_single_run_2-eps-converted-to.pdf Figure/summa
+ry/precomputedInit/Balibase/BB11005_tc_density_single_run_2.eps>
+(epstopdf)             \includegraphics on input line 618.
+Package epstopdf Info: Output file is already uptodate.
+<Figure/summary/precomputedInit/Balibase/BB11005_tc_density_single_run_2-eps-co
+nverted-to.pdf, id=910, 454.69875pt x 430.60875pt>
+File: Figure/summary/precomputedInit/Balibase/BB11005_tc_density_single_run_2-e
+ps-converted-to.pdf Graphic file (type pdf)
+<use Figure/summary/precomputedInit/Balibase/BB11005_tc_density_single_run_2-ep
+s-converted-to.pdf>
+Package pdftex.def Info: Figure/summary/precomputedInit/Balibase/BB11005_tc_den
+sity_single_run_2-eps-converted-to.pdf  used on input line 618.
+(pdftex.def)             Requested size: 134.15717pt x 127.04819pt.
+Package epstopdf Info: Source file: <Figure/summary/precomputedInit/Balibase/BB
+11018_tc_density_single_run_2.eps>
+(epstopdf)                    date: 2019-06-28 09:18:53
+(epstopdf)                    size: 21319 bytes
+(epstopdf)             Output file: <Figure/summary/precomputedInit/Balibase/BB
+11018_tc_density_single_run_2-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-06-28 09:19:05
+(epstopdf)                    size: 13859 bytes
+(epstopdf)             Command: <repstopdf --outfile=Figure/summary/precomputed
+Init/Balibase/BB11018_tc_density_single_run_2-eps-converted-to.pdf Figure/summa
+ry/precomputedInit/Balibase/BB11018_tc_density_single_run_2.eps>
+(epstopdf)             \includegraphics on input line 623.
+Package epstopdf Info: Output file is already uptodate.
+<Figure/summary/precomputedInit/Balibase/BB11018_tc_density_single_run_2-eps-co
+nverted-to.pdf, id=911, 442.65375pt x 334.24875pt>
+File: Figure/summary/precomputedInit/Balibase/BB11018_tc_density_single_run_2-e
+ps-converted-to.pdf Graphic file (type pdf)
+<use Figure/summary/precomputedInit/Balibase/BB11018_tc_density_single_run_2-ep
+s-converted-to.pdf>
+Package pdftex.def Info: Figure/summary/precomputedInit/Balibase/BB11018_tc_den
+sity_single_run_2-eps-converted-to.pdf  used on input line 623.
+(pdftex.def)             Requested size: 134.15717pt x 101.30054pt.
+Package epstopdf Info: Source file: <Figure/summary/precomputedInit/Balibase/BB
+11020_tc_density_single_run_2.eps>
+(epstopdf)                    date: 2019-06-28 09:18:53
+(epstopdf)                    size: 22608 bytes
+(epstopdf)             Output file: <Figure/summary/precomputedInit/Balibase/BB
+11020_tc_density_single_run_2-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-06-28 09:19:05
+(epstopdf)                    size: 14895 bytes
+(epstopdf)             Command: <repstopdf --outfile=Figure/summary/precomputed
+Init/Balibase/BB11020_tc_density_single_run_2-eps-converted-to.pdf Figure/summa
+ry/precomputedInit/Balibase/BB11020_tc_density_single_run_2.eps>
+(epstopdf)             \includegraphics on input line 628.
+Package epstopdf Info: Output file is already uptodate.
+<Figure/summary/precomputedInit/Balibase/BB11020_tc_density_single_run_2-eps-co
+nverted-to.pdf, id=912, 442.65375pt x 334.24875pt>
+File: Figure/summary/precomputedInit/Balibase/BB11020_tc_density_single_run_2-e
+ps-converted-to.pdf Graphic file (type pdf)
+<use Figure/summary/precomputedInit/Balibase/BB11020_tc_density_single_run_2-ep
+s-converted-to.pdf>
+Package pdftex.def Info: Figure/summary/precomputedInit/Balibase/BB11020_tc_den
+sity_single_run_2-eps-converted-to.pdf  used on input line 628.
+(pdftex.def)             Requested size: 134.15717pt x 101.30054pt.
+Package epstopdf Info: Source file: <Figure/summary/precomputedInit/Balibase/BB
+11033_tc_density_single_run_2.eps>
+(epstopdf)                    date: 2019-06-28 09:18:53
+(epstopdf)                    size: 21145 bytes
+(epstopdf)             Output file: <Figure/summary/precomputedInit/Balibase/BB
+11033_tc_density_single_run_2-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-06-28 09:19:06
+(epstopdf)                    size: 13230 bytes
+(epstopdf)             Command: <repstopdf --outfile=Figure/summary/precomputed
+Init/Balibase/BB11033_tc_density_single_run_2-eps-converted-to.pdf Figure/summa
+ry/precomputedInit/Balibase/BB11033_tc_density_single_run_2.eps>
+(epstopdf)             \includegraphics on input line 638.
+Package epstopdf Info: Output file is already uptodate.
+<Figure/summary/precomputedInit/Balibase/BB11033_tc_density_single_run_2-eps-co
+nverted-to.pdf, id=913, 442.65375pt x 334.24875pt>
+File: Figure/summary/precomputedInit/Balibase/BB11033_tc_density_single_run_2-e
+ps-converted-to.pdf Graphic file (type pdf)
+<use Figure/summary/precomputedInit/Balibase/BB11033_tc_density_single_run_2-ep
+s-converted-to.pdf>
+Package pdftex.def Info: Figure/summary/precomputedInit/Balibase/BB11033_tc_den
+sity_single_run_2-eps-converted-to.pdf  used on input line 638.
+(pdftex.def)             Requested size: 134.15717pt x 101.30054pt.
+Package epstopdf Info: Source file: <Figure/summary/precomputedInit/Balibase/BB
+11005_objset_tc_rank_2.eps>
+(epstopdf)                    date: 2019-06-28 09:21:15
+(epstopdf)                    size: 21061 bytes
+(epstopdf)             Output file: <Figure/summary/precomputedInit/Balibase/BB
+11005_objset_tc_rank_2-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-06-28 09:21:23
+(epstopdf)                    size: 12710 bytes
+(epstopdf)             Command: <repstopdf --outfile=Figure/summary/precomputed
+Init/Balibase/BB11005_objset_tc_rank_2-eps-converted-to.pdf Figure/summary/prec
+omputedInit/Balibase/BB11005_objset_tc_rank_2.eps>
+(epstopdf)             \includegraphics on input line 643.
+Package epstopdf Info: Output file is already uptodate.
+<Figure/summary/precomputedInit/Balibase/BB11005_objset_tc_rank_2-eps-converted
+-to.pdf, id=914, 450.68375pt x 336.25626pt>
+File: Figure/summary/precomputedInit/Balibase/BB11005_objset_tc_rank_2-eps-conv
+erted-to.pdf Graphic file (type pdf)
+<use Figure/summary/precomputedInit/Balibase/BB11005_objset_tc_rank_2-eps-conve
+rted-to.pdf>
+Package pdftex.def Info: Figure/summary/precomputedInit/Balibase/BB11005_objset
+_tc_rank_2-eps-converted-to.pdf  used on input line 643.
+(pdftex.def)             Requested size: 134.15717pt x 100.09262pt.
+Package epstopdf Info: Source file: <Figure/summary/precomputedInit/Balibase/BB
+11018_objset_tc_rank_2.eps>
+(epstopdf)                    date: 2019-06-28 09:21:15
+(epstopdf)                    size: 21059 bytes
+(epstopdf)             Output file: <Figure/summary/precomputedInit/Balibase/BB
+11018_objset_tc_rank_2-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-06-28 09:21:23
+(epstopdf)                    size: 13281 bytes
+(epstopdf)             Command: <repstopdf --outfile=Figure/summary/precomputed
+Init/Balibase/BB11018_objset_tc_rank_2-eps-converted-to.pdf Figure/summary/prec
+omputedInit/Balibase/BB11018_objset_tc_rank_2.eps>
+(epstopdf)             \includegraphics on input line 648.
+Package epstopdf Info: Output file is already uptodate.
+<Figure/summary/precomputedInit/Balibase/BB11018_objset_tc_rank_2-eps-converted
+-to.pdf, id=915, 438.63875pt x 336.25626pt>
+File: Figure/summary/precomputedInit/Balibase/BB11018_objset_tc_rank_2-eps-conv
+erted-to.pdf Graphic file (type pdf)
+<use Figure/summary/precomputedInit/Balibase/BB11018_objset_tc_rank_2-eps-conve
+rted-to.pdf>
+Package pdftex.def Info: Figure/summary/precomputedInit/Balibase/BB11018_objset
+_tc_rank_2-eps-converted-to.pdf  used on input line 648.
+(pdftex.def)             Requested size: 134.15717pt x 102.84276pt.
+Package epstopdf Info: Source file: <Figure/summary/precomputedInit/Balibase/BB
+11020_objset_tc_rank_2.eps>
+(epstopdf)                    date: 2019-06-28 09:21:16
+(epstopdf)                    size: 22425 bytes
+(epstopdf)             Output file: <Figure/summary/precomputedInit/Balibase/BB
+11020_objset_tc_rank_2-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-06-28 09:21:24
+(epstopdf)                    size: 14247 bytes
+(epstopdf)             Command: <repstopdf --outfile=Figure/summary/precomputed
+Init/Balibase/BB11020_objset_tc_rank_2-eps-converted-to.pdf Figure/summary/prec
+omputedInit/Balibase/BB11020_objset_tc_rank_2.eps>
+(epstopdf)             \includegraphics on input line 653.
+Package epstopdf Info: Output file is already uptodate.
+<Figure/summary/precomputedInit/Balibase/BB11020_objset_tc_rank_2-eps-converted
+-to.pdf, id=916, 438.63875pt x 336.25626pt>
+File: Figure/summary/precomputedInit/Balibase/BB11020_objset_tc_rank_2-eps-conv
+erted-to.pdf Graphic file (type pdf)
+<use Figure/summary/precomputedInit/Balibase/BB11020_objset_tc_rank_2-eps-conve
+rted-to.pdf>
+Package pdftex.def Info: Figure/summary/precomputedInit/Balibase/BB11020_objset
+_tc_rank_2-eps-converted-to.pdf  used on input line 653.
+(pdftex.def)             Requested size: 134.15717pt x 102.84276pt.
+Package epstopdf Info: Source file: <Figure/summary/precomputedInit/Balibase/BB
+11033_objset_tc_rank_2.eps>
+(epstopdf)                    date: 2019-06-28 09:21:16
+(epstopdf)                    size: 20237 bytes
+(epstopdf)             Output file: <Figure/summary/precomputedInit/Balibase/BB
+11033_objset_tc_rank_2-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-06-28 09:21:24
+(epstopdf)                    size: 12637 bytes
+(epstopdf)             Command: <repstopdf --outfile=Figure/summary/precomputed
+Init/Balibase/BB11033_objset_tc_rank_2-eps-converted-to.pdf Figure/summary/prec
+omputedInit/Balibase/BB11033_objset_tc_rank_2.eps>
+(epstopdf)             \includegraphics on input line 663.
+Package epstopdf Info: Output file is already uptodate.
+<Figure/summary/precomputedInit/Balibase/BB11033_objset_tc_rank_2-eps-converted
+-to.pdf, id=917, 438.63875pt x 336.25626pt>
+File: Figure/summary/precomputedInit/Balibase/BB11033_objset_tc_rank_2-eps-conv
+erted-to.pdf Graphic file (type pdf)
+<use Figure/summary/precomputedInit/Balibase/BB11033_objset_tc_rank_2-eps-conve
+rted-to.pdf>
+Package pdftex.def Info: Figure/summary/precomputedInit/Balibase/BB11033_objset
+_tc_rank_2-eps-converted-to.pdf  used on input line 663.
+(pdftex.def)             Requested size: 134.15717pt x 102.84276pt.
+Package epstopdf Info: Source file: <Figure/summary/precomputedInit/Balibase/BB
+11005_pairs_density_single_run_2.eps>
+(epstopdf)                    date: 2019-06-28 09:22:28
+(epstopdf)                    size: 21816 bytes
+(epstopdf)             Output file: <Figure/summary/precomputedInit/Balibase/BB
+11005_pairs_density_single_run_2-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-06-28 09:22:38
+(epstopdf)                    size: 14612 bytes
+(epstopdf)             Command: <repstopdf --outfile=Figure/summary/precomputed
+Init/Balibase/BB11005_pairs_density_single_run_2-eps-converted-to.pdf Figure/su
+mmary/precomputedInit/Balibase/BB11005_pairs_density_single_run_2.eps>
+(epstopdf)             \includegraphics on input line 670.
+Package epstopdf Info: Output file is already uptodate.
+<Figure/summary/precomputedInit/Balibase/BB11005_pairs_density_single_run_2-eps
+-converted-to.pdf, id=918, 440.64626pt x 334.24875pt>
+File: Figure/summary/precomputedInit/Balibase/BB11005_pairs_density_single_run_
+2-eps-converted-to.pdf Graphic file (type pdf)
+<use Figure/summary/precomputedInit/Balibase/BB11005_pairs_density_single_run_2
+-eps-converted-to.pdf>
+Package pdftex.def Info: Figure/summary/precomputedInit/Balibase/BB11005_pairs_
+density_single_run_2-eps-converted-to.pdf  used on input line 670.
+(pdftex.def)             Requested size: 134.15717pt x 101.76465pt.
+Package epstopdf Info: Source file: <Figure/summary/precomputedInit/Balibase/BB
+11018_pairs_density_single_run_2.eps>
+(epstopdf)                    date: 2019-06-28 09:22:28
+(epstopdf)                    size: 22694 bytes
+(epstopdf)             Output file: <Figure/summary/precomputedInit/Balibase/BB
+11018_pairs_density_single_run_2-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-06-28 09:22:39
+(epstopdf)                    size: 15004 bytes
+(epstopdf)             Command: <repstopdf --outfile=Figure/summary/precomputed
+Init/Balibase/BB11018_pairs_density_single_run_2-eps-converted-to.pdf Figure/su
+mmary/precomputedInit/Balibase/BB11018_pairs_density_single_run_2.eps>
+(epstopdf)             \includegraphics on input line 675.
+Package epstopdf Info: Output file is already uptodate.
+<Figure/summary/precomputedInit/Balibase/BB11018_pairs_density_single_run_2-eps
+-converted-to.pdf, id=919, 440.64626pt x 334.24875pt>
+File: Figure/summary/precomputedInit/Balibase/BB11018_pairs_density_single_run_
+2-eps-converted-to.pdf Graphic file (type pdf)
+<use Figure/summary/precomputedInit/Balibase/BB11018_pairs_density_single_run_2
+-eps-converted-to.pdf>
+Package pdftex.def Info: Figure/summary/precomputedInit/Balibase/BB11018_pairs_
+density_single_run_2-eps-converted-to.pdf  used on input line 675.
+(pdftex.def)             Requested size: 134.15717pt x 101.76465pt.
+Package epstopdf Info: Source file: <Figure/summary/precomputedInit/Balibase/BB
+11020_pairs_density_single_run_2.eps>
+(epstopdf)                    date: 2019-06-28 09:22:29
+(epstopdf)                    size: 22360 bytes
+(epstopdf)             Output file: <Figure/summary/precomputedInit/Balibase/BB
+11020_pairs_density_single_run_2-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-06-28 09:22:39
+(epstopdf)                    size: 15103 bytes
+(epstopdf)             Command: <repstopdf --outfile=Figure/summary/precomputed
+Init/Balibase/BB11020_pairs_density_single_run_2-eps-converted-to.pdf Figure/su
+mmary/precomputedInit/Balibase/BB11020_pairs_density_single_run_2.eps>
+(epstopdf)             \includegraphics on input line 680.
+Package epstopdf Info: Output file is already uptodate.
+<Figure/summary/precomputedInit/Balibase/BB11020_pairs_density_single_run_2-eps
+-converted-to.pdf, id=920, 440.64626pt x 334.24875pt>
+File: Figure/summary/precomputedInit/Balibase/BB11020_pairs_density_single_run_
+2-eps-converted-to.pdf Graphic file (type pdf)
+<use Figure/summary/precomputedInit/Balibase/BB11020_pairs_density_single_run_2
+-eps-converted-to.pdf>
+Package pdftex.def Info: Figure/summary/precomputedInit/Balibase/BB11020_pairs_
+density_single_run_2-eps-converted-to.pdf  used on input line 680.
+(pdftex.def)             Requested size: 134.15717pt x 101.76465pt.
+Package epstopdf Info: Source file: <Figure/summary/precomputedInit/Balibase/BB
+11033_pairs_density_single_run_2.eps>
+(epstopdf)                    date: 2019-06-28 09:22:29
+(epstopdf)                    size: 21426 bytes
+(epstopdf)             Output file: <Figure/summary/precomputedInit/Balibase/BB
+11033_pairs_density_single_run_2-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-06-28 09:22:40
+(epstopdf)                    size: 14414 bytes
+(epstopdf)             Command: <repstopdf --outfile=Figure/summary/precomputed
+Init/Balibase/BB11033_pairs_density_single_run_2-eps-converted-to.pdf Figure/su
+mmary/precomputedInit/Balibase/BB11033_pairs_density_single_run_2.eps>
+(epstopdf)             \includegraphics on input line 690.
+Package epstopdf Info: Output file is already uptodate.
+<Figure/summary/precomputedInit/Balibase/BB11033_pairs_density_single_run_2-eps
+-converted-to.pdf, id=921, 440.64626pt x 334.24875pt>
+File: Figure/summary/precomputedInit/Balibase/BB11033_pairs_density_single_run_
+2-eps-converted-to.pdf Graphic file (type pdf)
+<use Figure/summary/precomputedInit/Balibase/BB11033_pairs_density_single_run_2
+-eps-converted-to.pdf>
+Package pdftex.def Info: Figure/summary/precomputedInit/Balibase/BB11033_pairs_
+density_single_run_2-eps-converted-to.pdf  used on input line 690.
+(pdftex.def)             Requested size: 134.15717pt x 101.76465pt.
+Package epstopdf Info: Source file: <Figure/summary/precomputedInit/Balibase/BB
+11005_objset_pairs_rank_2.eps>
+(epstopdf)                    date: 2019-06-28 09:21:49
+(epstopdf)                    size: 20824 bytes
+(epstopdf)             Output file: <Figure/summary/precomputedInit/Balibase/BB
+11005_objset_pairs_rank_2-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-06-28 09:22:40
+(epstopdf)                    size: 12722 bytes
+(epstopdf)             Command: <repstopdf --outfile=Figure/summary/precomputed
+Init/Balibase/BB11005_objset_pairs_rank_2-eps-converted-to.pdf Figure/summary/p
+recomputedInit/Balibase/BB11005_objset_pairs_rank_2.eps>
+(epstopdf)             \includegraphics on input line 695.
+Package epstopdf Info: Output file is already uptodate.
+<Figure/summary/precomputedInit/Balibase/BB11005_objset_pairs_rank_2-eps-conver
+ted-to.pdf, id=922, 438.63875pt x 336.25626pt>
+File: Figure/summary/precomputedInit/Balibase/BB11005_objset_pairs_rank_2-eps-c
+onverted-to.pdf Graphic file (type pdf)
+<use Figure/summary/precomputedInit/Balibase/BB11005_objset_pairs_rank_2-eps-co
+nverted-to.pdf>
+Package pdftex.def Info: Figure/summary/precomputedInit/Balibase/BB11005_objset
+_pairs_rank_2-eps-converted-to.pdf  used on input line 695.
+(pdftex.def)             Requested size: 134.15717pt x 102.84276pt.
+Package epstopdf Info: Source file: <Figure/summary/precomputedInit/Balibase/BB
+11018_objset_pairs_rank_2.eps>
+(epstopdf)                    date: 2019-06-28 09:21:49
+(epstopdf)                    size: 20265 bytes
+(epstopdf)             Output file: <Figure/summary/precomputedInit/Balibase/BB
+11018_objset_pairs_rank_2-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-06-28 09:22:40
+(epstopdf)                    size: 12719 bytes
+(epstopdf)             Command: <repstopdf --outfile=Figure/summary/precomputed
+Init/Balibase/BB11018_objset_pairs_rank_2-eps-converted-to.pdf Figure/summary/p
+recomputedInit/Balibase/BB11018_objset_pairs_rank_2.eps>
+(epstopdf)             \includegraphics on input line 700.
+Package epstopdf Info: Output file is already uptodate.
+<Figure/summary/precomputedInit/Balibase/BB11018_objset_pairs_rank_2-eps-conver
+ted-to.pdf, id=923, 438.63875pt x 336.25626pt>
+File: Figure/summary/precomputedInit/Balibase/BB11018_objset_pairs_rank_2-eps-c
+onverted-to.pdf Graphic file (type pdf)
+<use Figure/summary/precomputedInit/Balibase/BB11018_objset_pairs_rank_2-eps-co
+nverted-to.pdf>
+Package pdftex.def Info: Figure/summary/precomputedInit/Balibase/BB11018_objset
+_pairs_rank_2-eps-converted-to.pdf  used on input line 700.
+(pdftex.def)             Requested size: 134.15717pt x 102.84276pt.
+Package epstopdf Info: Source file: <Figure/summary/precomputedInit/Balibase/BB
+11020_objset_pairs_rank_2.eps>
+(epstopdf)                    date: 2019-06-28 09:21:50
+(epstopdf)                    size: 20833 bytes
+(epstopdf)             Output file: <Figure/summary/precomputedInit/Balibase/BB
+11020_objset_pairs_rank_2-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-06-28 09:22:41
+(epstopdf)                    size: 13071 bytes
+(epstopdf)             Command: <repstopdf --outfile=Figure/summary/precomputed
+Init/Balibase/BB11020_objset_pairs_rank_2-eps-converted-to.pdf Figure/summary/p
+recomputedInit/Balibase/BB11020_objset_pairs_rank_2.eps>
+(epstopdf)             \includegraphics on input line 705.
+Package epstopdf Info: Output file is already uptodate.
+<Figure/summary/precomputedInit/Balibase/BB11020_objset_pairs_rank_2-eps-conver
+ted-to.pdf, id=924, 438.63875pt x 336.25626pt>
+File: Figure/summary/precomputedInit/Balibase/BB11020_objset_pairs_rank_2-eps-c
+onverted-to.pdf Graphic file (type pdf)
+<use Figure/summary/precomputedInit/Balibase/BB11020_objset_pairs_rank_2-eps-co
+nverted-to.pdf>
+Package pdftex.def Info: Figure/summary/precomputedInit/Balibase/BB11020_objset
+_pairs_rank_2-eps-converted-to.pdf  used on input line 705.
+(pdftex.def)             Requested size: 134.15717pt x 102.84276pt.
+Package epstopdf Info: Source file: <Figure/summary/precomputedInit/Balibase/BB
+11033_objset_pairs_rank_2.eps>
+(epstopdf)                    date: 2019-06-28 09:21:50
+(epstopdf)                    size: 20447 bytes
+(epstopdf)             Output file: <Figure/summary/precomputedInit/Balibase/BB
+11033_objset_pairs_rank_2-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-06-28 09:22:41
+(epstopdf)                    size: 12653 bytes
+(epstopdf)             Command: <repstopdf --outfile=Figure/summary/precomputed
+Init/Balibase/BB11033_objset_pairs_rank_2-eps-converted-to.pdf Figure/summary/p
+recomputedInit/Balibase/BB11033_objset_pairs_rank_2.eps>
+(epstopdf)             \includegraphics on input line 715.
+Package epstopdf Info: Output file is already uptodate.
+<Figure/summary/precomputedInit/Balibase/BB11033_objset_pairs_rank_2-eps-conver
+ted-to.pdf, id=925, 438.63875pt x 336.25626pt>
+File: Figure/summary/precomputedInit/Balibase/BB11033_objset_pairs_rank_2-eps-c
+onverted-to.pdf Graphic file (type pdf)
+<use Figure/summary/precomputedInit/Balibase/BB11033_objset_pairs_rank_2-eps-co
+nverted-to.pdf>
+Package pdftex.def Info: Figure/summary/precomputedInit/Balibase/BB11033_objset
+_pairs_rank_2-eps-converted-to.pdf  used on input line 715.
+(pdftex.def)             Requested size: 134.15717pt x 102.84276pt.
+
+Underfull \hbox (badness 2635) in paragraph at lines 807--807
+[]\OT1/ptm/m/n/10 TABLE V: |$[]$ The Av-er-age Fried-man's rank-ing (lower is b
+et-ter) achieved by the MSA
+ []
+
+[8] [9 <./Figure/summary/precomputedInit/Balibase/BB11005_fnrate_density_single
+_run-eps-converted-to.pdf> <./Figure/summary/precomputedInit/Balibase/BB11018_f
+nrate_density_single_run-eps-converted-to.pdf> <./Figure/summary/precomputedIni
+t/Balibase/BB11020_fnrate_density_single_run-eps-converted-to.pdf> <./Figure/su
+mmary/precomputedInit/Balibase/BB11033_fnrate_density_single_run-eps-converted-
+to.pdf> <./Figure/summary/precomputedInit/Balibase/BB11005_objset_fnrate_rank-e
+ps-converted-to.pdf> <./Figure/summary/precomputedInit/Balibase/BB11018_objset_
+fnrate_rank-eps-converted-to.pdf> <./Figure/summary/precomputedInit/Balibase/BB
+11020_objset_fnrate_rank-eps-converted-to.pdf> <./Figure/summary/precomputedIni
+t/Balibase/BB11033_objset_fnrate_rank-eps-converted-to.pdf> <./Figure/summary/p
+recomputedInit/Balibase/BB11005_fnrate_vs_tc_2-eps-converted-to.pdf> <./Figure/
+summary/precomputedInit/Balibase/BB11018_fnrate_vs_tc_2-eps-converted-to.pdf> <
+./Figure/summary/precomputedInit/Balibase/BB11020_fnrate_vs_tc_2-eps-converted-
+to.pdf> <./Figure/summary/precomputedInit/Balibase/BB11033_fnrate_vs_tc_2-eps-c
+onverted-to.pdf> <./Figure/summary/precomputedInit/Balibase/BB11005_fnrate_vs_s
+p_2-eps-converted-to.pdf> <./Figure/summary/precomputedInit/Balibase/BB11018_fn
+rate_vs_sp_2-eps-converted-to.pdf> <./Figure/summary/precomputedInit/Balibase/B
+B11020_fnrate_vs_sp_2-eps-converted-to.pdf> <./Figure/summary/precomputedInit/B
+alibase/BB11033_fnrate_vs_sp_2-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <Figure/balibase_runtime_comparison.eps>
+(epstopdf)                    date: 2019-06-28 21:40:00
+(epstopdf)                    size: 44877 bytes
+(epstopdf)             Output file: <Figure/balibase_runtime_comparison-eps-con
+verted-to.pdf>
+(epstopdf)                    date: 2019-06-28 21:42:16
+(epstopdf)                    size: 22088 bytes
+(epstopdf)             Command: <repstopdf --outfile=Figure/balibase_runtime_co
+mparison-eps-converted-to.pdf Figure/balibase_runtime_comparison.eps>
+(epstopdf)             \includegraphics on input line 850.
+Package epstopdf Info: Output file is already uptodate.
+<Figure/balibase_runtime_comparison-eps-converted-to.pdf, id=1430, 420.57124pt 
+x 368.37625pt>
+File: Figure/balibase_runtime_comparison-eps-converted-to.pdf Graphic file (typ
+e pdf)
+<use Figure/balibase_runtime_comparison-eps-converted-to.pdf>
+Package pdftex.def Info: Figure/balibase_runtime_comparison-eps-converted-to.pd
+f  used on input line 850.
+(pdftex.def)             Requested size: 206.39685pt x 180.78136pt.
+)
+(./section_6_Discussion.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [10 <./Figure/summary/precomputedInit/Balibase/BB11005_tc_density_single_run_2
+-eps-converted-to.pdf> <./Figure/summary/precomputedInit/Balibase/BB11018_tc_de
+nsity_single_run_2-eps-converted-to.pdf> <./Figure/summary/precomputedInit/Bali
+base/BB11020_tc_density_single_run_2-eps-converted-to.pdf> <./Figure/summary/pr
+ecomputedInit/Balibase/BB11033_tc_density_single_run_2-eps-converted-to.pdf> <.
+/Figure/summary/precomputedInit/Balibase/BB11005_objset_tc_rank_2-eps-converted
+-to.pdf> <./Figure/summary/precomputedInit/Balibase/BB11018_objset_tc_rank_2-ep
+s-converted-to.pdf> <./Figure/summary/precomputedInit/Balibase/BB11020_objset_t
+c_rank_2-eps-converted-to.pdf> <./Figure/summary/precomputedInit/Balibase/BB110
+33_objset_tc_rank_2-eps-converted-to.pdf> <./Figure/summary/precomputedInit/Bal
+ibase/BB11005_pairs_density_single_run_2-eps-converted-to.pdf> <./Figure/summar
+y/precomputedInit/Balibase/BB11018_pairs_density_single_run_2-eps-converted-to.
+pdf> <./Figure/summary/precomputedInit/Balibase/BB11020_pairs_density_single_ru
+n_2-eps-converted-to.pdf> <./Figure/summary/precomputedInit/Balibase/BB11033_pa
+irs_density_single_run_2-eps-converted-to.pdf> <./Figure/summary/precomputedIni
+t/Balibase/BB11005_objset_pairs_rank_2-eps-converted-to.pdf> <./Figure/summary/
+precomputedInit/Balibase/BB11018_objset_pairs_rank_2-eps-converted-to.pdf> <./F
+igure/summary/precomputedInit/Balibase/BB11020_objset_pairs_rank_2-eps-converte
+d-to.pdf> <./Figure/summary/precomputedInit/Balibase/BB11033_objset_pairs_rank_
+2-eps-converted-to.pdf>] [11 <./Figure/balibase_runtime_comparison-eps-converte
+d-to.pdf>]) (./main.bbl [12] [13])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 107.
+ [14
+
+]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 107.
+ (./main.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 107.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 107.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: ED4BFAF212E87640DB0C2D290E27682F;1753.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 107.
+ ) 
+Here is how much of TeX's memory you used:
+ 9503 strings out of 492649
+ 162260 string characters out of 6129622
+ 294427 words of memory out of 5000000
+ 13074 multiletter control sequences out of 15000+600000
+ 47578 words of font info for 96 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 42i,17n,40p,2442b,485s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{section.7} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.12} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.10} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.9} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.7.1} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.5} has been referenced but does not exist, 
+replaced by a fixed one
+
+pdfTeX warning (dest): name{section.6} has been referenced but does not exist, 
+replaced by a fixed one
+
+pdfTeX warning (dest): name{table.caption.2} has been referenced but does not e
+xist, replaced by a fixed one
+
+{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/tex
+live/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texl
+ive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texliv
+e/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/
+2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local/texlive/20
+18/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2018
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2018/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2018/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2018/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2018/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2018/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2018/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2018/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2018/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2018/texmf-dist/fonts/typ
+e1/urw/times/utmb8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/tim
+es/utmbi8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/times/utmr8a
+.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (14 pages, 1198605 bytes).
+PDF statistics:
+ 2125 PDF objects out of 2487 (max. 8388607)
+ 661 compressed objects within 7 object streams
+ 113 named destinations out of 1000 (max. 500000)
+ 448 words of extra memory for PDF output out of 10000 (max. 10000000)
+

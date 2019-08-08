@@ -1,0 +1,159 @@
+\begin{thebibliography}{10}
+
+\bibitem{seeluangsawat2005multiple}
+Pasut Seeluangsawat and Prabhas Chongstitvatana.
+\newblock A multiple objective evolutionary algorithm for multiple sequence
+  alignment.
+\newblock In {\em Proceedings of the 7th annual conference on Genetic and
+  evolutionary computation}, pages 477--478. ACM, 2005.
+
+\bibitem{da2010alineaga}
+Fernando Jos{\'e}~Mateus da~Silva, Juan Manuel~S{\'a}nchez P{\'e}rez, Juan
+  Antonio~G{\'o}mez Pulido, and Miguel A~Vega Rodr{\'\i}guez.
+\newblock Alineaga—a genetic algorithm with local search optimization for
+  multiple sequence alignment.
+\newblock {\em Applied Intelligence}, 32(2):164--172, 2010.
+
+\bibitem{rubio2016hybrid}
+{\'A}lvaro Rubio-Largo, Miguel~A Vega-Rodr{\'\i}guez, and David~L
+  Gonz{\'a}lez-{\'A}lvarez.
+\newblock A hybrid multiobjective memetic metaheuristic for multiple sequence
+  alignment.
+\newblock {\em IEEE Transactions on Evolutionary Computation}, 20(4):499--514,
+  2016.
+
+\bibitem{soto2014multi}
+Wilson Soto and David Becerra.
+\newblock A multi-objective evolutionary algorithm for improving multiple
+  sequence alignments.
+\newblock In {\em Brazilian Symposium on Bioinformatics}, pages 73--82.
+  Springer, 2014.
+
+\bibitem{kaya2014multiple}
+Mehmet Kaya, Abdullah Sarhan, and Reda Alhajj.
+\newblock Multiple sequence alignment with affine gap by using multi-objective
+  genetic algorithm.
+\newblock {\em Computer methods and programs in biomedicine}, 114(1):38--49,
+  2014.
+
+\bibitem{zhu2016novel}
+Huazheng Zhu, Zhongshi He, and Yuanyuan Jia.
+\newblock A novel approach to multiple sequence alignment using multiobjective
+  evolutionary algorithm based on decomposition.
+\newblock {\em IEEE journal of biomedical and health informatics},
+  20(2):717--727, 2016.
+
+\bibitem{rani2016multiple}
+R~Ranjani Rani and D~Ramyachitra.
+\newblock Multiple sequence alignment using multi-objective based bacterial
+  foraging optimization algorithm.
+\newblock {\em Biosystems}, 150:177--189, 2016.
+
+\bibitem{rubio2016bee}
+{\'A}lvaro Rubio-Largo, Miguel~A Vega-Rodr{\'\i}guez, and David~L
+  Gonz{\'a}lez-{\'A}lvarez.
+\newblock Hybrid multiobjective artificial bee colony for multiple sequence
+  alignment.
+\newblock {\em Applied Soft Computing}, 41:157--168, 2016.
+
+\bibitem{ortuno2013optimizing}
+Francisco~M Ortu{\~n}o, Olga Valenzuela, Fernando Rojas, Hector Pomares,
+  Javier~P Florido, Jose~M Urquiza, and Ignacio Rojas.
+\newblock Optimizing multiple sequence alignments using a genetic algorithm
+  based on three objectives: structural information, non-gaps percentage and
+  totally conserved columns.
+\newblock {\em Bioinformatics}, 29(17):2112--2121, 2013.
+
+\bibitem{zambrano2017comparing}
+Cristian Zambrano-Vega, Antonio~J Nebro, Jos{\'e} Garc{\'\i}a-Nieto, and
+  Jos{\'e}~F Aldana-Montes.
+\newblock Comparing multi-objective metaheuristics for solving a
+  three-objective formulation of multiple sequence alignment.
+\newblock {\em Progress in Artificial Intelligence}, pages 1--16, 2017.
+
+\bibitem{abbasi2015local}
+Maryam Abbasi, Lu{\'\i}s Paquete, and Francisco~B Pereira.
+\newblock Local search for multiobjective multiple sequence alignment.
+\newblock In {\em International Conference on Bioinformatics and Biomedical
+  Engineering}, pages 175--182. Springer, 2015.
+
+\bibitem{yang2013grid}
+Shengxiang Yang, Miqing Li, Xiaohui Liu, and Jinhua Zheng.
+\newblock A grid-based evolutionary algorithm for many-objective optimization.
+\newblock {\em IEEE Transactions on Evolutionary Computation}, 17(5):721--736,
+  2013.
+
+\bibitem{deb2002fast}
+Kalyanmoy Deb, Amrit Pratap, Sameer Agarwal, and TAMT Meyarivan.
+\newblock A fast and elitist multiobjective genetic algorithm: Nsga-ii.
+\newblock {\em IEEE transactions on evolutionary computation}, 6(2):182--197,
+  2002.
+
+\bibitem{deb2014evolutionary}
+Kalyanmoy Deb and Himanshu Jain.
+\newblock An evolutionary many-objective optimization algorithm using
+  reference-point-based nondominated sorting approach, part i: Solving problems
+  with box constraints.
+\newblock {\em IEEE Trans. Evolutionary Computation}, 18(4):577--601, 2014.
+
+\bibitem{zambrano2017multi}
+Cristian Zambrano-Vega, Antonio~J Nebro, Jos{\'e} Garc{\'\i}a-Nieto, and
+  Jos{\'e}~F Aldana-Montes.
+\newblock A multi-objective optimization framework for multiple sequence
+  alignment with metaheuristics.
+\newblock In {\em International Conference on Bioinformatics and Biomedical
+  Engineering}, pages 245--256. Springer, 2017.
+
+\bibitem{liu2011raxml}
+Kevin Liu, C~Randal Linder, and Tandy Warnow.
+\newblock Raxml and fasttree: comparing two methods for large-scale maximum
+  likelihood phylogeny estimation.
+\newblock {\em PloS one}, 6(11):e27731, 2011.
+
+\bibitem{price2010fasttree}
+Morgan~N Price, Paramvir~S Dehal, and Adam~P Arkin.
+\newblock Fasttree 2--approximately maximum-likelihood trees for large
+  alignments.
+\newblock {\em PloS one}, 5(3):e9490, 2010.
+
+\bibitem{stamatakis2014raxml}
+Alexandros Stamatakis.
+\newblock Raxml version 8: a tool for phylogenetic analysis and post-analysis
+  of large phylogenies.
+\newblock {\em Bioinformatics}, 30(9):1312--1313, 2014.
+
+\bibitem{warnow2017computational}
+Tandy Warnow.
+\newblock {\em Computational phylogenetics: an introduction to designing
+  methods for phylogeny estimation}.
+\newblock Cambridge University Press, 2017.
+
+\bibitem{liu2009rapid}
+Kevin Liu, Sindhu Raghavan, Serita Nelesen, C~Randal Linder, and Tandy Warnow.
+\newblock Rapid and accurate large-scale coestimation of sequence alignments
+  and phylogenetic trees.
+\newblock {\em Science}, 324(5934):1561--1564, 2009.
+
+\bibitem{mirarab2011fastsp}
+Siavash Mirarab and Tandy Warnow.
+\newblock Fastsp: linear time calculation of alignment accuracy.
+\newblock {\em Bioinformatics}, 27(23):3250--3258, 2011.
+
+\bibitem{thompson2005balibase}
+Julie~D Thompson, Patrice Koehl, Raymond Ripp, and Olivier Poch.
+\newblock Balibase 3.0: latest developments of the multiple sequence alignment
+  benchmark.
+\newblock {\em Proteins: Structure, Function, and Bioinformatics},
+  61(1):127--136, 2005.
+
+\bibitem{kalyanmoy2001multi}
+Deb Kalyanmoy.
+\newblock {\em Multi objective optimization using evolutionary algorithms}.
+\newblock John Wiley and Sons, 2001.
+
+\bibitem{montgomery2012introduction}
+Douglas~C Montgomery, Elizabeth~A Peck, and G~Geoffrey Vining.
+\newblock {\em Introduction to linear regression analysis}, volume 821.
+\newblock John Wiley \& Sons, 2012.
+
+\end{thebibliography}

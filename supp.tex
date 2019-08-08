@@ -1,0 +1,95 @@
+\documentclass[onecolumn, 11pt]{article} %, titlepage
+
+
+%MAN
+%\usepackage{mathptmx}
+\usepackage{graphicx}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{hyperref}
+\usepackage{verbatim}
+\usepackage{float}
+\usepackage{multirow}
+\usepackage{amsmath}
+\usepackage[numbers]{natbib}
+%\usepackage{natbib}
+\usepackage[margin=1.0in]{geometry}
+\usepackage{array}
+\usepackage{changepage}
+\usepackage{algorithm}
+\usepackage{algorithmic}
+\usepackage{enumerate}
+\usepackage{xr}
+\externaldocument{main}
+%\usepackage{setspace}
+%\doublespacing
+%\setstretch{2.2}
+
+%\usepackage{lineno}
+%\usepackage[bottom]{footmisc}
+%\raggedbottom
+%\newcommand{\citealp}[1]{\cite #1}
+%\flushbottom
+\usepackage{authblk}
+
+%%%%%%%for sqeezing table column from toufiue
+
+\newcolumntype{L}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{C}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{R}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+
+%%%%%%%%added for numbering
+\newcommand{\beginsupplement}{%
+	\setcounter{table}{0}
+	\renewcommand{\thetable}{S\arabic{table}}%
+	\setcounter{figure}{0}
+	\renewcommand{\thefigure}{S\arabic{figure}}%
+	\setcounter{algorithm}{0}
+	\renewcommand{\thealgorithm}{S\arabic{algorithm}}%
+	\setcounter{section}{0}
+	\renewcommand{\thesection}{S\arabic{section}}%
+}
+
+%opening
+
+
+%\title{Multi-objective formulation of multiple sequence alignment for phylogeny estimation: Do phylogeny-aware measures guide towards better phylogenetic tree? }
+\title{Supplementary Materials for\\ ``Multi-objective formulation of MSA for phylogeny estimation \\ \textit{\normalsize{(Do phylogeny-aware measures guide towards better phylogenetic tree?)}}'' }
+
+\author{Muhammad Ali Nayeem}
+\author{Md. Shamsuzzoha Bayzid}mac cout<<"Current Avg D0:"<<avg;
+\author{Atif Hasan Rahman}
+\author{Rifat Shahriyar}
+\author{M. Sohel Rahman\thanks{Corresponding author. E-mail: msrahman@cse.buet.ac.bd}} %(M.S. Rahman)
+\affil{Department of CSE, BUET, Dhaka 1205, Bangladesh}
+\renewcommand\Affilfont{\itshape\small}
+\date{}
+%\subject{CSE6406: Bioinformatics Algorithms}
+%\subtitle{CSE 6900: Final Report}
+\begin{document}
+\beginsupplement
+\maketitle
+%\newpage
+\tableofcontents
+\newpage
+%\linenumbers
+\input{supp_description} 
+\input{supp_result} 
+
+
+%\clearpage
+%\bibliographystyle{natbib}
+%\bibliographystyle{achemnat}
+%\bibliographystyle{plainnat} 
+%\bibliographystyle{genome_research}
+\bibliographystyle{unsrt}
+%\bibliographystyle{abbrv}
+%\bibliographystyle{bioinformatics}
+%
+%\bibliographystyle{plain}
+%
+\clearpage
+\bibliography{supp}
+
+
+\end{document}
